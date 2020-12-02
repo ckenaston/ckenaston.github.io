@@ -11,7 +11,7 @@ description:      'Historian of religion, politics, and culture in the United St
 url:              https://ckenaston.github.io/
 baseurl:          /
 
-
+plugins:          [jekyll-paginate]
 paginate:         5
 
 # Custom vars

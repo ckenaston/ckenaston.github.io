@@ -3,92 +3,69 @@ layout: page
 title: Projects
 permalink: /projects
 ---
-                <div class="container content">
-                    <div class="page">
-              <h1 class="page-title">Projects</h1>
-              <h2>Faith Networks: National Broadcasting and the Making of American Religion</h2>
-              <img class="thumbnail" src="Images/diss-logo.png" alt="Illustration by Rachel Kenaston of a church and radio tower shaking hands, image based on a cartoon
-              in 1952 pamphlet, 'Broadcasting Religion: Manual for Local Use.'">
-              <p>What is American religion? Politicians, scholars, and religious practitioners have long debated this question. After many years of implicitly answering by writing
-                about Puritans and their imagined white Protestant descendants, scholars gradually began diversifying their understanding in the 1970s and 1980s: American religion
-                became American religions. My project, “Faith Networks: National Broadcasting and the Making of American Religion,” offers an innovative way to think about religion
-                in American life not as a set of beliefs and groups to be identified and examined, but as a concept created by America’s emerging mass culture. The rise of mass
-                culture in the first half of the twentieth century created new identities and spending patterns that cut across historic lines of difference. This new culture seemed
-                 to threaten America’s supposed Puritan-ethic because it encouraged consumption and diminished the importance of theology, local communities, and religious denominations.
-                 Religious leaders interpreted this emerging culture as both crisis and opportunity. In an attempt to redeem mass culture, well-connected Catholic, Protestant, and Jewish
-                 leaders partnered with radio networks to create broad representations of religion that could appeal to a national market. Bringing together the fields of history,
-                 religious studies, and American studies, my project charts the rise of these representations. Reflecting the diverse interests of women listeners, male religious
-                 leaders, media executives, and federal regulators, these representations created a new national religious identity that tacitly blessed the modern media industry
-                 and the new practices and collectivities it helped create. Thus, my project illuminates how the modern media industry and American religion mutually created each
-                 other and, in doing so, tuned and retuned American life.</p>
-              <h2>Digital Projects</h2>
-              <h3><a href="https://landandlegacy.scholarslab.org/"><i>Land and Legacy</i></a></h3>
-              <img class="thumbnail" src="Images/land-and-legacy.jpg" alt="Screenshot of Land and Legacy homepage">
-              <p> This project investigates the land development and expansion of the University of Virginia
-                (UVA) and University of Virginia Foundation (UVAF) throughout Charlottesville and  Albemarle County since the 1980s.
-                The project focuses on how these changes have affected local  communities, reshaped city and county topography, and contributed to local inequities.
-                 <i>Land and Legacy</i> was created by the 2019-2020 Praxis fellows: Janet S. Dunkelbarger, Natasha Roth-Rowland, Lauren Van Nest, Chloe Downe Wells, and me.
-                  Based at the <a href="https://scholarslab.lib.virginia.edu/">Scholars’ Lab</a> at the UVA Library, Praxis fellows receive training in digital methods and tools and are tasked with creating a collaboritive digital humanities project.
-                In addition to the guidance and assistance provided by the Scholars’ Lab  staff, we also consulted with library staff, researchers working on the
-                <a href="https://equityatlas.lib.virginia.edu/">Charlottesville Equity Atlas</a>, and other members of the UVA and Charlottesville community. </p>
-                <p>I played several roles on the project. Our team adopted a rotating project manager model. My time as the project manager coincided with the closing of UVA due to
-                  the coronavirus pandemic. As the project manager, I helped the team reassess our priorities and goals in light of our new circumstances, as well as create a detailed
-                  project plan to help us achieve our goals. In my work as a project manager, I tried to <a href="https://scholarslab.lib.virginia.edu/blog/praxis-in-a-pandemic/">always lead with care</a>.
-                  I also served as one of the team's two primary web developers. We chose to build our own website with the layout, image resolution, and overall appearance tested for maximum accessibility, in order to encourage
-                  and facilitate public engagement, as well as to create additional space for acknowledging the people and projects that contributed to its own work. Building a website
-                  also allowed for easy access to the team’s data that informed our three ArcGIS StoryMaps as well as to our policy recommendations and avenues for future research. Finally, I also collaborated
-                  to research, write, and edit our StoryMaps.</p>
 
-              <h3><a href="http://essaysinhistory.com"><i>Essays in History</i></a></h3>
-              <img class="thumbnail" src="Images/eih.jpg" alt="Essays in History logo">
+<h2>Faith Networks: National Broadcasting and the Making of American Religion</h2>
+<img class="thumbnail" src="Images/diss-logo.png" alt="Illustration by Rachel Kenaston of a church and radio tower shaking hands, image based on a cartoon
+in 1952 pamphlet, 'Broadcasting Religion: Manual for Local Use'.">
+<p>What is American religion? Politicians, scholars, and religious practitioners have long debated this question. After many years of implicitly answering by writing
+  about Puritans and their imagined white Protestant descendants, scholars gradually began diversifying their understanding in the 1970s and 1980s: American religion
+  became American religions. My project, “Faith Networks: National Broadcasting and the Making of American Religion,” offers an innovative way to think about religion
+  in American life not as a set of beliefs and groups to be identified and examined, but as a concept created by America’s emerging mass culture. The rise of mass
+  culture in the first half of the twentieth century created new identities and spending patterns that cut across historic lines of difference. This new culture seemed
+   to threaten America’s supposed Puritan-ethic because it encouraged consumption and diminished the importance of theology, local communities, and religious denominations.
+   Religious leaders interpreted this emerging culture as both crisis and opportunity. In an attempt to redeem mass culture, well-connected Catholic, Protestant, and Jewish
+   leaders partnered with radio networks to create broad representations of religion that could appeal to a national market. Bringing together the fields of history,
+   religious studies, and American studies, my project charts the rise of these representations. Reflecting the diverse interests of women listeners, male religious
+   leaders, media executives, and federal regulators, these representations created a new national religious identity that tacitly blessed the modern media industry
+   and the new practices and collectivities it helped create. Thus, my project illuminates how the modern media industry and American religion mutually created each
+   other and, in doing so, tuned and retuned American life.</p>
+<h2>Digital Projects</h2>
+<h3><a href="https://landandlegacy.scholarslab.org/"><i>Land and Legacy</i></a></h3>
+<img class="thumbnail" src="Images/land-and-legacy.jpg" alt="Screenshot of Land and Legacy homepage">
+<p> This project investigates the land development and expansion of the University of Virginia
+  (UVA) and University of Virginia Foundation (UVAF) throughout Charlottesville and  Albemarle County since the 1980s.
+  The project focuses on how these changes have affected local  communities, reshaped city and county topography, and contributed to local inequities.
+   <i>Land and Legacy</i> was created by the 2019-2020 Praxis fellows: Janet S. Dunkelbarger, Natasha Roth-Rowland, Lauren Van Nest, Chloe Downe Wells, and me.
+    Based at the <a href="https://scholarslab.lib.virginia.edu/">Scholars’ Lab</a> at the UVA Library, Praxis fellows receive training in digital methods and tools and are tasked with creating a collaboritive digital humanities project.
+  In addition to the guidance and assistance provided by the Scholars’ Lab  staff, we also consulted with library staff, researchers working on the
+  <a href="https://equityatlas.lib.virginia.edu/">Charlottesville Equity Atlas</a>, and other members of the UVA and Charlottesville community. </p>
+  <p>I played several roles on the project. Our team adopted a rotating project manager model. My time as the project manager coincided with the closing of UVA due to
+    the coronavirus pandemic. As the project manager, I helped the team reassess our priorities and goals in light of our new circumstances, as well as create a detailed
+    project plan to help us achieve our goals. In my work as a project manager, I tried to <a href="https://scholarslab.lib.virginia.edu/blog/praxis-in-a-pandemic/">always lead with care</a>.
+    I also served as one of the team’s two primary web developers. We chose to build our own website with the layout, image resolution, and overall appearance tested for maximum accessibility, in order to encourage
+    and facilitate public engagement, as well as to create additional space for acknowledging the people and projects that contributed to its own work. Building a website
+    also allowed for easy access to the team’s data that informed our three ArcGIS StoryMaps as well as to our policy recommendations and avenues for future research. Finally, I also collaborated
+    to research, write, and edit our StoryMaps.</p>
 
-              <p><i>Essays in History</i> (<i>EiH</i>) is an open-access journal for emerging historians. Established in 1954, <i>EiH</i> is possibly the world’s oldest, ongoing student-run history journal. Edited by graduate
-                students at the University of Virginia, <i>EiH</i> publishes peer-reviewed articles and historiographical essays in all areas of historical inquiry, as well as reviews of the most recent scholarship.
-                <i>EiH</i> aims to be a resource to students, teachers, researchers, and enthusiasts of historical studies. With its focus on emerging scholars, the journal frequently provides graduate students,
-                early career scholars, and occasionally an accomplished undergraduate their first chance to publish a book review or peer-reviewed article or to serve as an anonymous reviewer or editor.
-                As such, we hope to provide a supportive, caring experience for our editors, authors, and anonymous referees. We are committed to ensuring that equity, anti-racism, and accessibility
-                are at the heart of who we are, how we operate, and the work we publish.</p>
-                <p>
-                  I have served as the Editor of <i>EiH</i> since the fall of 2019. In this position, I have consistently reflected on how we can better serve the emerging scholars who make up our authors,
-                  editors, referees, and readers. During my tenure, I led the journal to partner with Aperio, an open-access journal management system, to help bring <i>EiH</i> up to industry standard for open access publishing.
-                  I prioritized consistent communication, understanding, and support, especially because the coronavirus pandemic made life significantly more stressful for many of the journal's Associate Editors and authors.
-                  I also revived and expanded the Advisory Board to ensure diversity, and drafted by-laws that named the journal’s commitment to inclusivity and anti-racism.
-                  Prior to my position as the Editor, I served as an Associate Editor for Articles in 2019.
-                </p>
+<h3><a href="http://essaysinhistory.com"><i>Essays in History</i></a></h3>
+<img class="thumbnail" src="Images/eih.jpg" alt="Essays in History logo">
 
-              <h3><a href="">UVA President's Commission on the University in the Age of Segregation</a></h3>
-              <img class="thumbnail" src="Images/pcuas.jpg" alt="Screenshot of PCUAS website landing page">
+<p><i>Essays in History</i> (<i>EiH</i>) is an open-access journal for emerging historians. Established in 1954, <i>EiH</i> is possibly the world’s oldest, ongoing student-run history journal. Edited by graduate
+  students at the University of Virginia, <i>EiH</i> publishes peer-reviewed articles and historiographical essays in all areas of historical inquiry, as well as reviews of the most recent scholarship.
+  <i>EiH</i> aims to be a resource to students, teachers, researchers, and enthusiasts of historical studies. With its focus on emerging scholars, the journal frequently provides graduate students,
+  early career scholars, and occasionally an accomplished undergraduate their first chance to publish a book review or peer-reviewed article or to serve as an anonymous reviewer or editor.
+  As such, we hope to provide a supportive, caring experience for our editors, authors, and anonymous referees. We are committed to ensuring that equity, anti-racism, and accessibility
+  are at the heart of who we are, how we operate, and the work we publish.</p>
+  <p>
+    I have served as the Editor of <i>EiH</i> since the fall of 2019. In this position, I have consistently reflected on how we can better serve the emerging scholars who make up our authors,
+    editors, referees, and readers. During my tenure, I led the journal to partner with Aperio, an open-access journal management system, to help bring <i>EiH</i> up to industry standard for open access publishing.
+    I prioritized consistent communication, understanding, and support, especially because the coronavirus pandemic made life significantly more stressful for many of the journal’s Associate Editors and authors.
+    I also revived and expanded the Advisory Board to ensure diversity, and drafted by-laws that named the journal’s commitment to inclusivity and anti-racism.
+    Prior to my position as the Editor, I served as an Associate Editor for Articles in 2019.
+  </p>
 
-              <p>
-                The University of Virginia President's Commission on the University in the Age of Segregation (PCUAS) was
-                founded in 2018 to "explore and report on UVA's role in the period of racial segregation and that occurred in the 19th
-                and 20th centuries." As part of this work, PCUAS created a digital archive to share some of their findings.
-              </p>
-              <p>
-                I worked as a Digital Archiving Assistant for PCUAS in the summer and fall of 2020. In this capacity, I adapted the CSS and Javascript of an
-                an <a href="https://omeka.org/">Omeka</a> digital archive template to meet the needs of the Commission.
-                My fellow digital archiving assistant and I had to think critically about how best to present problematic visual images from UVA's past so that the images functioned
-                as a truth-telling of the long history of racism and violence at UVA rather than as a tool of modern-day white supremacy. We primarily tried to do this through heavy editorialization
-                and structuring the site in a way that leads users to engage with the PCUAS's thematic introductions prior to engaging with the items.
-              </p>
+<h3><a>UVA President’s Commission on the University in the Age of Segregation</a></h3>
+<img class="thumbnail" src="Images/pcuas.jpg" alt="Screenshot of PCUAS website landing page">
 
-                <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-                <script>
-                  (function(document) {
-                    var toggle = document.querySelector('.sidebar-toggle');
-                    var sidebar = document.querySelector('#sidebar');
-                    var checkbox = document.querySelector('#sidebar-checkbox');
-
-                    document.addEventListener('click', function(e) {
-                      var target = e.target;
-
-                      if(!checkbox.checked ||
-                         sidebar.contains(target) ||
-                         (target === checkbox || target === toggle)) return;
-
-                      checkbox.checked = false;
-                    }, false);
-                  })(document);
-                </script>
-  </body>
-</html>
+<p>
+  The University of Virginia President’s Commission on the University in the Age of Segregation (PCUAS) was
+  founded in 2018 to “explore and report on UVA’s role in the period of racial segregation and that occurred in the 19th
+  and 20th centuries.” As part of this work, PCUAS created a digital archive to share some of their findings.
+</p>
+<p>
+  I worked as a Digital Archiving Assistant for PCUAS in the summer and fall of 2020. In this capacity, I adapted the CSS and Javascript of an
+  an <a href="https://omeka.org/">Omeka</a> digital archive template to meet the needs of the Commission.
+  My fellow digital archiving assistant and I had to think critically about how best to present problematic visual images from UVA’s past so that the images functioned
+  as a truth-telling of the long history of racism and violence at UVA rather than as a tool of modern-day white supremacy. We primarily tried to do this through heavy editorialization
+  and structuring the site in a way that leads users to engage with the PCUAS’s thematic introductions prior to engaging with the items.
+</p>
