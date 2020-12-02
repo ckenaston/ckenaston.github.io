@@ -5,7 +5,7 @@ title: Praxis in a Pandemic
 
 Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/praxis-in-a-pandemic/)
 
-*[Before I begin this mostly self-focused blog post, I want to acknowledge that the coronavirus pandemic has affected so many people more than me. My heart goes out to all who are sick, suffering, or have died, and to their friends and families. I want to thank all those responding to the crisis and making sure people’s needs are met. You are appreciated.]*
+*Before I begin this mostly self-focused blog post, I want to acknowledge that the coronavirus pandemic has affected so many people more than me. My heart goes out to all who are sick, suffering, or have died, and to their friends and families. I want to thank all those responding to the crisis and making sure people’s needs are met. You are appreciated.*
 
 I have tried to exercise outside at least once per day the last few weeks. I make sure to stay away from other walkers and runners--many of whom are probably like me and only recently re/discovered how much they love exercising outdoors. Trapped inside while attempting to social-distance makes exercising outside a wonderful breath of fresh air, a brief moment away from the attempt to do remote work amidst the steady stream of anxiety-producing news about the virus.
 
