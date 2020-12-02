@@ -5,7 +5,7 @@ permalink: /about
 ---
 
 
-<img class="thumbnail" src="Images/Connor-Headshot.jpg" alt="Cover of 1923 edition of Wireless Age Magazine featuring a radio preacher">
+<img class="thumbnail" src="Images/CONNOR-HEADSHOT.jpg" alt="Cover of 1923 edition of Wireless Age Magazine featuring a radio preacher">
 <p>I am a <a href="https://history.virginia.edu/people/profile/csk5vf">doctoral candidate</a> at the University of Virginia. My teaching and scholarship examine the history of
     religion, politics, and culture in the United States. I am also interested in anti-racist pedagogy and digital history. I received my master’s degree in History and a
     graduate certificate in American Studies from UVA and my bachelor’s degree in History from Yale University. My dissertation, “<a href="projects.html">Faith Networks: National Broadcasting

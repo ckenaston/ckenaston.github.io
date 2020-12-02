@@ -5,7 +5,7 @@ permalink: /projects
 ---
 
 <h2>Faith Networks: National Broadcasting and the Making of American Religion</h2>
-<img class="thumbnail" src="Images/diss-logo.png" alt="Illustration by Rachel Kenaston of a church and radio tower shaking hands, image based on a cartoon
+<img class="thumbnail" src="Images/Diss-logo.PNG" alt="Illustration by Rachel Kenaston of a church and radio tower shaking hands, image based on a cartoon
 in 1952 pamphlet, 'Broadcasting Religion: Manual for Local Use'.">
 <p>What is American religion? Politicians, scholars, and religious practitioners have long debated this question. After many years of implicitly answering by writing
   about Puritans and their imagined white Protestant descendants, scholars gradually began diversifying their understanding in the 1970s and 1980s: American religion
