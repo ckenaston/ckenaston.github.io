@@ -1,16 +1,16 @@
-@media screen {
+@media {
 
         /* making font bigger and text color fit uva brand */
         html {
             font-family: 'Montserrat', sans-serif;
             color: #666666; }
-            
+
             a {
                 color: #843b62;}
-        
-            a:hover {    
+
+            a:hover {
                 text-decoration: underline}
-        
+
         h1, h2, h3, h4 {
             font-family: 'Piazzolla', serif;}
 
@@ -18,13 +18,13 @@
     display: none;}
 
     /* bigger font-size for headers */
-      
+
     .cv-list li {
       list-style-type: none;
       margin-bottom: 1rem;
       margin-top: -.5rem;
       }
-      
+
       .sidebar {
         font-family: 'Montserrat', sans-serif;
       }
@@ -44,5 +44,7 @@
     }
     .lead {
       font-size: 1.15rem; }
+
+}
 
 }
