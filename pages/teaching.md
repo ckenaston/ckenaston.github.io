@@ -4,20 +4,36 @@ title: Teaching
 permalink: /teaching
 ---
 
-<h2>Philosophy</h2>
-<p>Coming Soon!</p>
-<h2>Experience</h2>
-<p>For my previous teaching experience, see my <a href="cv.html#cv-teaching">curriculum vitae</a>.</p>
-<h2>Courses I am Prepared to Teach</h2>
-<h3>Undergraduate</h3>
-<p>American History since 1865</p>
-<p>Introduction to American Studies</p>
-<p>History of American Religion</p>
-<p>Christian America?: Religious Diversity and National Identity</p>
-<p>US History Since 1945: People, Politics, Power</p>
-<p>Doing Digital History</p>
-<p>Sounding America, 1900-Present</p>
-<h3>Graduate</h3>
-<p>Historiography of American Religions</p>
-<p>Twentieth Century US Social and Cultural History</p>
-<p>Pedagogy and Power</p>
+## Philosophy
+
+Coming Soon!
+
+## Experience
+
+For my previous teaching experience, see my [curriculum vitae](cv.html#teaching).
+
+## Courses I am Prepared to Teach
+
+### Undergraduate
+
+American History since 1865
+
+Introduction to American Studies
+
+History of American Religion
+
+Christian America?: Religious Diversity and National Identity
+
+US History Since 1945: People, Politics, Power
+
+Doing Digital History
+
+Sounding America, 1900-Present
+
+### Graduate
+
+Historiography of American Religions
+
+Twentieth Century US Social and Cultural History
+
+Pedagogy and Power
