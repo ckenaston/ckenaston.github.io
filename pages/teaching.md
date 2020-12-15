@@ -28,7 +28,7 @@ US History Since 1945: People, Politics, Power
 
 Doing Digital History
 
-Sounding America, 1900-Present
+Sounding America
 
 ### Graduate
 
