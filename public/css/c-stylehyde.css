@@ -44,7 +44,12 @@
     }
     .lead {
       font-size: 1.15rem; }
-
 }
 
-}
+@media (max-width: 26em) {
+    .thumbnail {
+        float: left;
+        margin-left: inherit;
+        margin-right: inherit;;
+        width: max-content;}
+    }
