@@ -35,7 +35,7 @@ B.A. Yale University, Distinction in History, _cum laude_, 2014
 
 ### Digital Projects
 
-Janet S. Dunkelbarger, Connor S. Kenaston, Natasha Roth-Rowland, Lauren Van Nest, Chloe Downe Wells, [_Land and Legacy_](https://landandlegacy.scholarslab.org), Praxis Program, University of Virginia Library, Scholars’ Lab, last modified July 31, 2020..
+Janet S. Dunkelbarger, Connor S. Kenaston, Natasha Roth-Rowland, Lauren Van Nest, Chloe Downe Wells, [_Land and Legacy_](https://landandlegacy.scholarslab.org), Praxis Program, University of Virginia Library, Scholars’ Lab, last modified July 31, 2020.
 
 ## GRANTS AND FELLOWSHIPS
 
