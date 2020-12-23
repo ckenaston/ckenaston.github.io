@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv
 ---
 
-Last updated 10/08/2020
+Last updated 12/22/2020
 
 ## EDUCATION
 
@@ -20,6 +20,8 @@ B.A. Yale University, Distinction in History, _cum laude_, 2014
 ## PUBLICATIONS
 
 ### Articles
+
+"Step by Step: American Interracialism and the Origins of Talk-First Activism," _Modern American History_ (Accepted for publication, expected March 2022).
 
 “[Methodists and Lynching: Racial Violence and the Methodist Episcopal Church, South, 1880-1930](https://methodistreview.org/index.php/mr/article/view/131),” _Methodist Review: A Journal of Wesleyan and Methodist Studies_ 7 (2015): 21-43\.
 
