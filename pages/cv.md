@@ -107,6 +107,10 @@ Introduction to American Studies, Fall 2017
 
 Black Fire: The Struggle for Social Justice and Racial Equality at the University of Virginia, Spring 2019
 
+#### Guest Lecturer
+
+“Religion and Nationalism,” Religion and American Popular Culture, March 8, 2021
+
 #### Graduate Assistant for UVA Summer Transition Program
 
 Graduate Assistant Hour, Summer 2019
