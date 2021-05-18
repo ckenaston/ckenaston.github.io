@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv
 ---
 
-Last updated 12/22/2020
+Last updated 05/18/2021
 
 ## EDUCATION
 
@@ -19,7 +19,7 @@ B.A. Yale University, Distinction in History, _cum laude_, 2014
 
 ## PUBLICATIONS
 
-### Articles
+### Peer-Reviewed Journal Articles
 
 "Step by Step: American Interracialism and the Origins of Talk-First Activism," _Modern American History_ (Accepted for publication, expected March 2022).
 
@@ -27,17 +27,23 @@ B.A. Yale University, Distinction in History, _cum laude_, 2014
 
 “[From Rib to Robe: Women’s Ordination in The United Methodist Church](http://hdl.handle.net/10516/9746),” _Methodist History Journal_ 53, no. 3 (April 2015): 162-172\.
 
-“[Reds, Rosaries, and Revolutionary Governments: Church-State Relations in Cuba and Nicaragua in the Aftermath of Revolution](https://historicalreview.yale.edu/sites/default/files/yhr_spring_2013_web.pdf),” _Yale Historical Review_ 2 (Spring 2013): 58-71\.
+### Peer-Reviewed Digital Projects
+
+Janet S. Dunkelbarger, Connor S. Kenaston, Natasha Roth-Rowland, Lauren Van Nest, Chloe Downe Wells, [_Land and Legacy_](https://landandlegacy.scholarslab.org), Praxis Program, University of Virginia Library, Scholars’ Lab, last modified July 31, 2020. [Reviewed by Claire A. Tratnyek](https://reviewsindh.pubpub.org/pub/land-and-legacy/), _Reviews in Digital Humanities_ 2, no. 5 (May 2021).
 
 ### Book Reviews
 
 [Review of _Anointed with Oil: How Christianity and Crude Made Modern America_, by Darren Dochuk](https://www.christiancentury.org/review/books/fundamentalists-modernists-and-oil-they-both-swam), _Christian Century_ 136, no. 22 (October 23, 2019): 46-47\.
 
-### Digital Projects
+### Other Publications
 
-Janet S. Dunkelbarger, Connor S. Kenaston, Natasha Roth-Rowland, Lauren Van Nest, Chloe Downe Wells, [_Land and Legacy_](https://landandlegacy.scholarslab.org), Praxis Program, University of Virginia Library, Scholars’ Lab, last modified July 31, 2020.
+“[Reds, Rosaries, and Revolutionary Governments: Church-State Relations in Cuba and Nicaragua in the Aftermath of Revolution](https://historicalreview.yale.edu/sites/default/files/yhr_spring_2013_web.pdf),” _Yale Historical Review_ 2 (Spring 2013): 58-71\.
 
 ## GRANTS AND FELLOWSHIPS
+
+PhD Plus Fellowship, Office of Graduate and Postdoctoral Affairs, University of Virginia
+
+Arts and Sciences Society of Fellows Dissertation Completion Fellowship, University of Virginia, 2021
 
 Renate Voris Fellowship, Renate Voris Fellowship Foundation, 2020
 
@@ -95,6 +101,10 @@ Barbara Wertheimer Prize, New York Labor History Association, 2014
 
 ### University of Virginia, Charlottesville, VA
 
+#### Instructor of Record
+
+American History Since 1865, Summer 2021
+
 #### Teaching Assistant
 
 America and War since 1914, Fall 2018
@@ -115,6 +125,10 @@ Black Fire: The Struggle for Social Justice and Racial Equality at the Universit
 
 Graduate Assistant Hour, Summer 2019
 
+#### Content Tutor for UVA Athletics Department
+
+Introduction to American Studies, Summer 2018
+
 #### Professional Development
 
 Facilitator, “Teaching as a Graduate Student,” Fall 2020
@@ -129,15 +143,19 @@ Tomorrow’s Professor Today,” Center for Teaching and Learning, 2019-2020
 
 History of American Methodism, Spring 2015
 
-## DIGITAL HUMANITIES
+## PUBLIC AND DIGITAL HUMANITIES
+
+Intern, [Jefferson School African American Heritage Center](https://jeffschoolheritagecenter.org/), Charlottesville, Virginia.
 
 Digital Archiving Assistant, President’s Commission on the University in the Age of Segregation, University of Virginia, 2020.
 
-Participant, Praxis Program Fellowship in Digital Humanities Selection Committee, 2020.
+Participant, [Praxis Program Fellowship in Digital Humanities](https://scholarslab.lib.virginia.edu/praxis-program-fellowships/) Selection Committee, 2020.
 
 Contributing Author, [Scholars’ Lab Blog](https://scholarslab.lib.virginia.edu/people/connor-kenaston/), University of Virginia Library, University of Virginia, 2019-2020.
 
 Web Developer and Project Manager, Land and Legacy, Praxis Program, University of Virginia Library Scholars’ Lab, [https://landandlegacy.scholarslab.org](https://landandlegacy.scholarslab.org), 2019-2020.
+
+Summer Intern, [Greenbrier Historical Society & North House Museum](https://www.greenbrierhistorical.org/), Lewisburg, West Virginia.
 
 ## CONFERENCE ACTIVITY
 
@@ -160,6 +178,8 @@ Web Developer and Project Manager, Land and Legacy, Praxis Program, University o
 “‘You know the radio is noncontroversial’: Jews, Broadcasting, and the Public Interest,” American Jewish Archive, Cincinnati, Ohio, March 12, 2020.
 
 ## CAMPUS PRESENTATIONS
+
+“Expanding Mainwave Religion: Race, Music, and Citizenship in 1930s Network Radio,” Virginia Colloquium in American Religion, March 24, 2021.
 
 “Land and Legacy,” Scholars’ Lab, University of Virginia Library, May 5, 2020.
 
