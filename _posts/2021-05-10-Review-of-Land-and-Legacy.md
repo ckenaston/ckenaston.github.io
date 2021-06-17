@@ -18,5 +18,5 @@ to do more collaborative scholarship in the future. Tratnyek's review also made 
 my time with the [Praxis Program](https://scholarslab.lib.virginia.edu/praxis-program-fellowships/), and all the [incredible people UVA and around town](https://landandlegacy.scholarslab.org/about.html) who helped us out along the way!
 You can read more about the specific roles I played on my [Projects page](projects.html#land-and-legacy).
 
-Finally, I want to note how cool it was have Land and Legacy reviewed alongside other great digital projects like “[Mapping Marronage](https://reviewsindh.pubpub.org/pub/mapping-marronage/release/3?readingCollection=d112edcc),” “[GeoNewsMiner](https://reviewsindh.pubpub.org/pub/geonewsminer/release/2?readingCollection=d112edcc),”
+Finally, I want to note how cool it felt to have _Land and Legacy_ reviewed alongside other great digital projects like “[Mapping Marronage](https://reviewsindh.pubpub.org/pub/mapping-marronage/release/3?readingCollection=d112edcc),” “[GeoNewsMiner](https://reviewsindh.pubpub.org/pub/geonewsminer/release/2?readingCollection=d112edcc),”
 and “[Visualizing Objects, Spaces, and Places](https://reviewsindh.pubpub.org/pub/visualizing-objects-places-and-spaces/release/2?readingCollection=d112edcc).” If you're not following Reviews in Digital Humanities, you should be!
