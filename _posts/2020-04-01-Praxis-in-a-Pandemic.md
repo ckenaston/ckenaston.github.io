@@ -3,7 +3,7 @@ layout: post
 title: Praxis in a Pandemic
 ---
 
-Crossposted to the [Scholars' Lab blog](https://scholarslab.lib.virginia.edu/blog/praxis-in-a-pandemic/)
+Crossposted to the [Scholars’ Lab blog](https://scholarslab.lib.virginia.edu/blog/praxis-in-a-pandemic/)
 
 *Before I begin this mostly self-focused blog post, I want to acknowledge that the coronavirus pandemic has affected so many people more than me. My heart goes out to all who are sick, suffering, or have died, and to their friends and families. I want to thank all those responding to the crisis and making sure people’s needs are met. You are appreciated.*
 
