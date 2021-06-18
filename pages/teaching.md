@@ -4,9 +4,6 @@ title: Teaching
 permalink: /teaching
 ---
 
-## Experience
-
-For my previous teaching experience, see my [curriculum vitae](cv.html#teaching).
 
 ## Philosophy
 
@@ -15,6 +12,14 @@ My first priority as a teacher is to create an inclusive learning community wher
 ## Publications about Teaching
 
 “[With Care and Context](https://hybridpedagogy.org/with-care-and-context/),” _Hybrid Pedagogy_, June 17, 2021. In this article, I reflect on viewing lynching photographs as an undergraduate student and how my thinking about the merits of teaching with such images has evolved over time.
+
+## Sample Syllabi
+
+This is the syllabus I used for "[American History Since 1865](https://docs.google.com/document/d/1vT8PyDJp56nDRcqXNjMallt9QP1kxwRjxRUB3idqA68/edit?usp=sharing)," a course I taught at the University of Virginia during the summer of 2021.
+
+## Experience
+
+For my previous teaching experience, see my [curriculum vitae](cv.html#teaching).
 
 
 ## Courses I am Prepared to Teach
@@ -27,9 +32,9 @@ Introduction to American Studies
 
 History of American Religion
 
-Christian America?: Religious Diversity and National Identity
+Christian America?
 
-US History Since 1945: People, Politics, Power
+US History Since 1945
 
 Doing Digital History
 
@@ -37,7 +42,7 @@ Sounding America
 
 ### Graduate
 
-Historiography of American Religions
+History of American Religion
 
 Twentieth Century US Social and Cultural History
 
