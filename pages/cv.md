@@ -147,7 +147,7 @@ History of American Methodism, Spring 2015
 
 ## PUBLIC AND DIGITAL HUMANITIES
 
-Intern, [Jefferson School African American Heritage Center](https://jeffschoolheritagecenter.org/), Charlottesville, Virginia.
+PhD Plus Fellow, [Jefferson School African American Heritage Center](https://jeffschoolheritagecenter.org/), Charlottesville, Virginia, 2020-Present.
 
 Digital Archiving Assistant, President’s Commission on the University in the Age of Segregation, University of Virginia, 2020.
 
