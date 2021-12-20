@@ -34,21 +34,25 @@ History of American Religion
 
 Introduction to Historical Methods
 
+Introduction to Public History
+
+The Democratic Project
+
 Christian America?
 
 US History Since 1945
-
-Introduction to Public History
 
 Doing Digital History
 
 Sounding America
 
-Autobiography and History
+Biography and History
 
-Twentieth Century U.S. Freedom Movements
+Twentieth-Century U.S. Freedom Movements
 
 History of Whiteness
+
+Making History, Making Democracy
 
 God and Money
 
