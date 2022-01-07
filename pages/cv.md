@@ -27,7 +27,7 @@ B.A. Yale University, Distinction in History, _cum laude_, 2014
 
 “[Methodists and Lynching: Racial Violence and the Methodist Episcopal Church, South, 1880-1930](https://methodistreview.org/index.php/mr/article/view/131),” _Methodist Review: A Journal of Wesleyan and Methodist Studies_ 7 (2015): 21-43\.
 
-“[From Rib to Robe: Women’s Ordination in The United Methodist Church](http://hdl.handle.net/10516/9746),” _Methodist History Journal_ 53, no. 3 (April 2015): 162-172\.
+“[From Rib to Robe: Women’s Ordination in The United Methodist Church](http://hdl.handle.net/10516/9746),” _Methodist History_ 53, no. 3 (April 2015): 162-172\.
 
 ### Peer-Reviewed Digital Projects
 
