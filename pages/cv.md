@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv
 ---
 
-Last updated 05/18/2021
+Last updated 04/05/2021
 
 ## EDUCATION
 
@@ -21,7 +21,7 @@ B.A. Yale University, Distinction in History, _cum laude_, 2014
 
 ### Peer-Reviewed Journal Articles
 
-“Step by Step: American Interracialism and the Origins of Talk-First Activism,” _Modern American History_ (Accepted for publication, expected March 2022).
+“Step by Step: American Interracialism and the Origins of Talk-First Activism,” _Modern American History_ (Accepted for publication, expected April 2022).
 
 “[With Care and Context](https://hybridpedagogy.org/with-care-and-context/),” _Hybrid Pedagogy_, June 17, 2021.
 
@@ -42,8 +42,9 @@ B.A. Yale University, Distinction in History, _cum laude_, 2014
 “[Reds, Rosaries, and Revolutionary Governments: Church-State Relations in Cuba and Nicaragua in the Aftermath of Revolution](https://historicalreview.yale.edu/sites/default/files/yhr_spring_2013_web.pdf),” _Yale Historical Review_ 2 (Spring 2013): 58-71\.
 
 ## GRANTS AND FELLOWSHIPS
+Samuel and Marion Merrill Graduate Student Travel Grant, Organization of American Historians, 2022
 
-PhD Plus Fellowship, Office of Graduate and Postdoctoral Affairs, University of Virginia
+PhD Plus Fellowship, Office of Graduate and Postdoctoral Affairs, University of Virginia, 2021
 
 Arts and Sciences Society of Fellows Dissertation Completion Fellowship, University of Virginia, 2021
 
@@ -147,7 +148,7 @@ History of American Methodism, Spring 2015
 
 ## PUBLIC AND DIGITAL HUMANITIES
 
-PhD Plus Fellow, [Jefferson School African American Heritage Center](https://jeffschoolheritagecenter.org/), Charlottesville, Virginia, 2020-Present.
+PhD Plus Fellow, [Jefferson School African American Heritage Center](https://jeffschoolheritagecenter.org/), Charlottesville, Virginia, 2020-2022.
 
 Digital Archiving Assistant, President’s Commission on the University in the Age of Segregation, University of Virginia, 2020.
 
@@ -160,6 +161,8 @@ Web Developer and Project Manager, Land and Legacy, Praxis Program, University o
 Summer Intern, [Greenbrier Historical Society & North House Museum](https://www.greenbrierhistorical.org/), Lewisburg, West Virginia.
 
 ## CONFERENCE ACTIVITY
+
+“‘Fireside Favorites’: Ministry, Minstrelsy, and the Southernaires,” Organization of American Historians, Boston, April 2, 2022.
 
 “‘Education and Religion vs. Commercial Radio’: Rethinking Religion and the 1934 Communications Act,” International Society of Media, Religion and Culture Biennial Conference, Sigtuna, Sweden, August 4, 2020\. _Unable to deliver, conference cancelled due to COVID-19 outbreak._
 
@@ -197,13 +200,13 @@ Colloquium Speaker, Davenport College Mellon Forum for Senior Essays and Project
 
 ## SERVICE
 
-Editor, [_Essays in History_](essaysinhistory.com), an open access journal for emerging historians, University of Virginia, 2019-Present
+Editor, [_Essays in History_](essaysinhistory.com), an open access journal for emerging historians, University of Virginia, 2019-2022
 
 Associate Editor, [_Essays in History_](essaysinhistory.com), an open access journal for emerging historians, University of Virginia, 2019
 
-Participant, Graduate Diversity and Inclusion Working Group, 2019-Present
+Participant, Graduate Diversity and Inclusion Working Group, 2019-2021
 
-Cohort Representative, Graduate History Student Association, University of Virginia, 2020-Present
+Cohort Representative, Graduate History Student Association, University of Virginia, 2020-2021
 
 ## COMMUNITY INVOLVEMENT
 
