@@ -28,15 +28,15 @@ For my previous teaching experience, see my [curriculum vitae](cv.html#teaching)
 
 American History since 1865
 
-U.S. history from Colonial to the Presenter
+Working for the Weekend
+
+Community: A History
+
+U.S. History from Colonial to the Presenter
 
 African Americans and the Construction of America
 
 American Women's History
-
-Working for the Weekend
-
-Community: A History
 
 Introduction to American Studies
 
