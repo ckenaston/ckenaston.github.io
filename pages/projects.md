@@ -11,7 +11,7 @@ permalink: /projects
 
 
 ### Step by Step: American Interracialism and the Origins of Talk-First Activism.
- <img class="thumbnail" src="catchings-at-blue-ridge.jpg" alt="This photograph is of L. Maynard Catchings meeting with a group of students affiliated with the YMCA and YWCA. The original image can be found here: http://purl.umn.edu/77727.">
+ <img class="thumbnail" src="Images/catchings-at-blue-ridge.jpg" alt="This photograph is of L. Maynard Catchings meeting with a group of students affiliated with the YMCA and YWCA. The original image can be found here: http://purl.umn.edu/77727.">
 Published in _Modern American History_, this article examines the history of the idea that friendship and dialogue are the first steps to making a better world. During the first half of the twentieth century, American Protestants powered a national movement for dialogue and cooperation among people of different races. In the 1940s and 1950s, Black leaders in predominantly white ecumenical Protestant institutions created a series of workshops and dialogue guides that popularized the notion that interracial exchange would lead to action. Backed by their institutions’ financial, moral, and organizational resources, they transformed both the interracial movement and dominant understandings of how to change society. Yet, while Black ecumenical leaders insisted that facilitating interracial exchange was just the beginning form of action in ending discrimination, they unintentionally facilitated problematic assumptions about the standalone power of “first steps” in creating a more equitable society.
 
 ## Digital Projects
