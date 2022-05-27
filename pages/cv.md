@@ -8,7 +8,7 @@ Last updated 04/05/2021
 
 ## EDUCATION
 
-Ph.D. University of Virginia, Corcoran Department of History (expected May 2022)
+Ph.D. University of Virginia, Corcoran Department of History
 
 <ul class="cv-list"><li>Graduate Certificate in American Studies, 2019</li>
 <li> Passed Exam Fields with Distinction, 2018</li></ul>
@@ -16,6 +16,10 @@ Ph.D. University of Virginia, Corcoran Department of History (expected May 2022)
 M.A. University of Virginia, Corcoran Department of History, 2018
 
 B.A. Yale University, Distinction in History, _cum laude_, 2014
+
+## EMPLOYMENT
+
+Randolph College, Visiting Assistant Professor of American Culture, 2022-Present
 
 ## PUBLICATIONS
 
@@ -200,6 +204,8 @@ Colloquium Speaker, Davenport College Mellon Forum for Senior Essays and Project
 
 ## SERVICE
 
+Advisory Board, [_Essays in History_](essaysinhistory.com), an open access journal for emerging historians, University of Virginia, 2022-Present
+
 Editor, [_Essays in History_](essaysinhistory.com), an open access journal for emerging historians, University of Virginia, 2019-2022
 
 Associate Editor, [_Essays in History_](essaysinhistory.com), an open access journal for emerging historians, University of Virginia, 2019
@@ -216,10 +222,10 @@ Invited Panelist and Workshop Leader, A Faithful Response to Racial Injustice Co
 
 ## PROFESSIONAL AFFILIATIONS
 
-American Studies Association (ASA)
-
-American Historical Association (AHA)
+Organization of American Historians (OAH)
 
 American Society of Church History (ASCH)
 
-Organization of American Historians (OAH)
+American Historical Association (AHA)
+
+American Studies Association (ASA)
