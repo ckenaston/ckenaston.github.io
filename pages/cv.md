@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv
 ---
 
-Last updated 04/05/2021
+Last updated 05/27/2022
 
 ## EDUCATION
 
@@ -25,7 +25,7 @@ Randolph College, Visiting Assistant Professor of American Culture, 2022-Present
 
 ### Peer-Reviewed Journal Articles
 
-““[Step by Step: American Interracialism and the Origins of Talk-First Activism](https://doi.org/10.1017/mah.2022.2),” _Modern American History_ (2022): 1-25\.
+““[Step by Step: American Interracialism and the Origins of Talk-First Activism](https://doi.org/10.1017/mah.2022.2),” _Modern American History_ 5, no. 1 (March 2022): 1-25\.
 
 “[With Care and Context](https://hybridpedagogy.org/with-care-and-context/),” _Hybrid Pedagogy_, June 17, 2021\.
 
