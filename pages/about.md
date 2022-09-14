@@ -12,6 +12,6 @@ Connor S. Kenaston is the Ainsworth Visiting Assistant Professor of American Cul
 In his spare time, Kenaston enjoys hiking, singing, and playing soccer. He is especially fond of kayaking the Greenbrier River in his home state of West Virginia.
 
 Connor S. Kenaston  
-csk5vf[at]virginia.edu  
+ckenaston[at]randolphcollege.edu  
 [@connorkenaston](https://twitter.com/ConnorKenaston)  
 [https://orcid.org/0000-0002-4999-7177](https://orcid.org/0000-0002-4999-7177)
