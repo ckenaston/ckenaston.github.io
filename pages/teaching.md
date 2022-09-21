@@ -7,13 +7,15 @@ permalink: /teaching
 
 ## Philosophy
 
-In my classroom, both _what_ we are learning and _how_ we are learning matters. My first priority as a teacher is to create a learning environment where students feel that they belong. I design courses so that students engage diverse media and perspectives, and I work to cultivate community and active learning in the classroom. These techniques help students learn, as one put it, “To always reflect on the historical path that has shaped many aspects of our lives today, to think of events as a contingent process and to learn from the past in building the future.” My goal is that any course I teach will be a small step on a student’s lifelong journey of becoming a deep thinker and responsible citizen.
+In my classroom, both _what_ we are learning and _how_ we are learning matters. My top priority is to cultivate an inclusive and democratic learning community where students feel that they belong. Students should expect to be active participants in everything from discussion and activities to co-creating the syllabus and class policies. My goal is that any course I teach will be part of a student’s lifelong journey of becoming a deep thinker and a responsible citizen of the world. I want students to learn, as one recently put it, “To always reflect on the historical path that has shaped many aspects of our lives today, to think of events as a contingent process and to learn from the past in building the future.” My goal is that any course I teach will be part of a student’s lifelong journey of becoming a deep thinker and a responsible citizen of the world.
 
 ## Publications about Teaching
 
 “[With Care and Context](https://hybridpedagogy.org/with-care-and-context/),” _Hybrid Pedagogy_, June 17, 2021. In this article, I reflect on viewing lynching photographs as an undergraduate student and how my thinking about the merits of teaching with such images has evolved over time.
 
 ## Sample Syllabi
+
+This is the syllabus I used for "[U.S. History from Colonial to the Present](https://docs.google.com/document/d/1MTiYBR8Lqm0o2uEInAVScEpDKke36MELA-LVOB_RyzY/edit?usp=sharing)," a course I taught at Randolph College in the fall of 2022.
 
 This is the syllabus I used for "[American History Since 1865](https://docs.google.com/document/d/1vT8PyDJp56nDRcqXNjMallt9QP1kxwRjxRUB3idqA68/edit?usp=sharing)," a course I taught at the University of Virginia during the summer of 2021.
 
@@ -32,7 +34,7 @@ Working for the Weekend
 
 Community: A History
 
-U.S. History from Colonial to the Presenter
+U.S. History from Colonial to the Present
 
 African Americans and the Construction of America
 

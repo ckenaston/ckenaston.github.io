@@ -25,6 +25,10 @@ I played several roles on the project. Our team adopted a rotating project manag
 
  Claire A. Tratneyk reviewed _Land and Legacy_ in the May 2021 issue of [_Reviews in Digital Humanities_](https://reviewsindh.pubpub.org/pub/land-and-legacy/) and described the project as an "exemplar of collaborative research and the integration of digital and traditional historical methods."
 
+ ### Jefferson School African American Heritage Center
+ <img class="thumbnail" src="Images/JSAAHC.jpg" alt="photograph of JSAAHC exhibit on Black education">
+ The [Jefferson School African American Heritage Center](https://jeffschoolheritagecenter.org/) works to honor and preserve the rich heritage and legacy of the African American community of Charlottesville and Albemarle County, Virginia and to promote a greater appreciation for and understanding of, the contributions of African Americans and peoples of the Diaspora. From the fall of 2021 to the spring of 2022, I worked with the JSAAHC as part of [UVA's PhD Plus program](https://phdplus.virginia.edu/). Though I tried to help out in whatever way was most helpful, I spent most of my time conducting research for an exhibit about the history of Black education in Charlottesville from the 1910s through the 1940s. Following the lead of JSAAHC staff, I aimed to honor the work of past civil rights leaders while emphasizing the ongoing struggle for racial justice in education. Unfortunately, I wasn't able to see the exhibit to completion due to having to leave Charlottesville after graduation. Nevertheless, I know that I am a much better public historian for the experience of working with JSAAHC, and I hope that my work helped lay the groundwork for the future completion of the exhibit.
+
 ### [_Essays in History_](http://essaysinhistory.com)
 <img class="thumbnail" src="Images/eih.jpg" alt="Essays in History logo">
 

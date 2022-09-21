@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Graduation and Acknowledgements
+title: Meet Dr. Kenaston!
 ---
 
 This spring, I successfully defended my dissertation and graduated from the University of Virginia with my PhD. I'm now Dr. Connor S. Kenaston!! I also accepted a job at Randolph College where I'll be the Ainsworth Visiting Assistant Professor of American Culture. More on that later! For now, I wanted to share a little bit more about the many people who helped me get to this point:
 
 
-
-###Dissertation Acknowledgements
+<h3>Dissertation Acknowledgements</h3>
 I wrote this dissertation with the advice, support, friendship, and love of so many people. Those mentioned below are just the beginning. I have inevitably omitted many folks who should be included. Thankfully, they’re good people so I’m confident they’ll forgive my oversight. As with the rest of this dissertation, all mistakes are my own.
 
 I want to begin by thanking my advisor, Grace Hale. Grace exemplifies what it means to be an excellent teacher and scholar. Through countless conversations and line-edited drafts, she challenged me to refine my ideas and write more clearly. She paired these high expectations with an endless stream of kindness, encouragement, and laughter. Grace showed me with her words and deeds that she cared about me as both a scholar and a person. I am truly grateful to have had her as an advisor these past six years. I also want to thank Claudrena Harold, Matthew Hedstrom, Kathryn Lofton, and Sarah Milov. I have learned from each of these brilliant scholars over the years, and it was an honor to have them serve on my dissertation committee. They gave me smart and generous feedback, and I know that the next iteration of this project will be all the better for it.
