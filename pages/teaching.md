@@ -15,9 +15,9 @@ In my classroom, both _what_ we are learning and _how_ we are learning matters. 
 
 ## Sample Syllabi
 
-This is the syllabus I used for "[U.S. History from Colonial to the Present](https://docs.google.com/document/d/1MTiYBR8Lqm0o2uEInAVScEpDKke36MELA-LVOB_RyzY/edit?usp=sharing)," a course I taught at Randolph College in the fall of 2022.
+"[U.S. History from Colonial to the Present](https://docs.google.com/document/d/1MTiYBR8Lqm0o2uEInAVScEpDKke36MELA-LVOB_RyzY/edit?usp=sharing)," Randolph College, Fall 2022.
 
-This is the syllabus I used for "[American History Since 1865](https://docs.google.com/document/d/1vT8PyDJp56nDRcqXNjMallt9QP1kxwRjxRUB3idqA68/edit?usp=sharing)," a course I taught at the University of Virginia during the summer of 2021.
+"[American History Since 1865](https://docs.google.com/document/d/1vT8PyDJp56nDRcqXNjMallt9QP1kxwRjxRUB3idqA68/edit?usp=sharing)," University of Virginia, Summer 2021.
 
 ## Experience
 
