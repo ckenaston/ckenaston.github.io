@@ -3,7 +3,7 @@ layout: post
 title: Meet Dr. Kenaston!
 ---
 
-<img class="headshot" src="Images/defense-parents.jpg" alt="Photograph of Connor S. Kenaston, a scholar of U.S. history, with his parents, Joe and Judi Kenaston, after his dissertation defense. Photograph by Maria Niechwiadowicz.">
+<img class="headshot" src="Images/defense-parents.jpeg" alt="Photograph of Connor S. Kenaston, a scholar of U.S. history, with his parents, Joe and Judi Kenaston, after his dissertation defense. Photograph by Maria Niechwiadowicz.">
 
 This spring, I successfully defended my dissertation and graduated from the University of Virginia with my PhD. I'm now Dr. Connor S. Kenaston!! I also accepted a job at Randolph College where I'll be the Ainsworth Visiting Assistant Professor of American Culture. More on that later! For now, I want to publicly thank those who helped me get to this point:
 
