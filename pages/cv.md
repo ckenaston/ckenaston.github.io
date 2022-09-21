@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv
 ---
 
-Last updated 05/27/2022
+Last updated 09/21/2022
 
 ## EDUCATION
 
@@ -105,6 +105,12 @@ Andrew D. White Senior Essay Prize, Yale History Department, 2014
 Barbara Wertheimer Prize, New York Labor History Association, 2014
 
 ## TEACHING
+
+### Randolph College, Lynchburg, VA
+
+#### Instructor of Record
+
+US History from Colonial to Present, Fall 2022
 
 ### University of Virginia, Charlottesville, VA
 
