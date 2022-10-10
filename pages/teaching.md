@@ -7,7 +7,7 @@ permalink: /teaching
 
 ## Philosophy
 
-In my classroom, both _what_ we are learning and _how_ we are learning matters. My top priority is to cultivate an inclusive and democratic learning community where students feel that they belong. Students should expect to be active participants in everything from discussion and activities to co-creating the syllabus and class policies. My goal is that any course I teach will be part of a student’s lifelong journey of becoming a deep thinker and a responsible citizen of the world. I want students to learn, as one recently put it, “To always reflect on the historical path that has shaped many aspects of our lives today, to think of events as a contingent process and to learn from the past in building the future.” My goal is that any course I teach will be part of a student’s lifelong journey of becoming a deep thinker and a responsible citizen of the world.
+In my classroom, both _what_ we are learning and _how_ we are learning matters. My top priority is to cultivate an inclusive and democratic learning community where students feel that they belong. Students should expect to be active participants in everything from discussion and activities to co-creating the syllabus and class policies. I want students to learn, as one recently put it, “To always reflect on the historical path that has shaped many aspects of our lives today, to think of events as a contingent process and to learn from the past in building the future.” My goal is that any course I teach will be part of a student’s lifelong journey of becoming a deep thinker and a responsible citizen of the world.
 
 ## Publications about Teaching
 
