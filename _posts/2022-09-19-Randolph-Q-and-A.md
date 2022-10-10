@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Randolph College's Q&A with New Faculty: Connor Kenaston
+title: Randolph College's Q&A with New Faculty
 ---
 
 <img class="headshot" src="Images/Randolph-College-Q-and-A-full.png" alt="Screenshot of Randolph College's Q&A with Connor S. Kenaston, the new Ainsworth Visiting Assistant Professor of American Culture">
