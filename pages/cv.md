@@ -4,11 +4,11 @@ title: Curriculum Vitae
 permalink: /cv
 ---
 
-Last updated 09/21/2022
+Last updated 01/09/2023
 
 ## EDUCATION
 
-Ph.D. University of Virginia, Corcoran Department of History
+Ph.D. University of Virginia, Corcoran Department of History, 2022
 
 <ul class="cv-list"><li>Graduate Certificate in American Studies, 2019</li>
 <li> Passed Exam Fields with Distinction, 2018</li></ul>
@@ -17,9 +17,9 @@ M.A. University of Virginia, Corcoran Department of History, 2018
 
 B.A. Yale University, Distinction in History, _cum laude_, 2014
 
-## EMPLOYMENT
+## PROFESSIONAL APPOINTMENTS
 
-Randolph College, Visiting Assistant Professor of American Culture, 2022-Present
+Randolph College, Ainsworth Visiting Assistant Professor of American Culture (2022-Present)
 
 ## PUBLICATIONS
 
@@ -35,7 +35,7 @@ Randolph College, Visiting Assistant Professor of American Culture, 2022-Present
 
 ### Peer-Reviewed Digital Projects
 
-[_Land and Legacy_](https://landandlegacy.scholarslab.org), with Janet S. Dunkelbarger, Natasha Roth-Rowland, Lauren Van Nest, and Chloe Downe Wells, Praxis Program, University of Virginia Library, Scholars’ Lab, last modified July 31, 2020. [Reviewed by Claire A. Tratnyek](https://reviewsindh.pubpub.org/pub/land-and-legacy/), _Reviews in Digital Humanities_ 2, no. 5 (May 2021).
+[_Land and Legacy_](https://landandlegacy.scholarslab.org), with Janet S. Dunkelbarger, Natasha Roth-Rowland, Lauren Van Nest, and Chloe Downe Wells, Praxis Program, Scholars' Lab, University of Virginia Library, last modified July 31, 2020. [Reviewed by Claire A. Tratnyek](https://reviewsindh.pubpub.org/pub/land-and-legacy/), _Reviews in Digital Humanities_ 2, no. 5 (May 2021).
 
 ### Book Reviews
 
@@ -45,7 +45,7 @@ Randolph College, Visiting Assistant Professor of American Culture, 2022-Present
 
 “[Reds, Rosaries, and Revolutionary Governments: Church-State Relations in Cuba and Nicaragua in the Aftermath of Revolution](https://historicalreview.yale.edu/sites/default/files/yhr_spring_2013_web.pdf),” _Yale Historical Review_ 2 (Spring 2013): 58-71\.
 
-## GRANTS AND FELLOWSHIPS
+## GRANTS, FELLOWSHIPS, AND AWARDS
 Samuel and Marion Merrill Graduate Student Travel Grant, Organization of American Historians, 2022
 
 PhD Plus Fellowship, Office of Graduate and Postdoctoral Affairs, University of Virginia, 2021
@@ -94,21 +94,24 @@ Summer Research Funding, Department of History of the University of Virginia, 20
 
 Elmer L. Anderson Research Scholarship Award, University of Minnesota, 2016
 
-Richter Summer Fellowship, Davenport College of Yale University, 2013
-
-## ACADEMIC HONORS
-
 Women in United Methodist History Writing Award, General Commission on Archives and History of the UMC, 2015
 
 Andrew D. White Senior Essay Prize, Yale History Department, 2014
 
 Barbara Wertheimer Prize, New York Labor History Association, 2014
 
+Richter Summer Fellowship, Davenport College of Yale University, 2013
+
+
 ## TEACHING
 
 ### Randolph College, Lynchburg, VA
 
 #### Instructor of Record
+
+American Women's History, Spring 2023
+
+African Americans and the Construction of America, Fall 2022
 
 US History from Colonial to Present, Fall 2022
 
@@ -118,7 +121,9 @@ US History from Colonial to Present, Fall 2022
 
 American History Since 1865, Summer 2021
 
-#### Teaching Assistant
+#### Teaching and Graduate Assistant
+
+Summer Transition Program, Summer 2019
 
 America and War since 1914, Fall 2018
 
@@ -130,25 +135,15 @@ Introduction to American Studies, Fall 2017
 
 Black Fire: The Struggle for Social Justice and Racial Equality at the University of Virginia, Spring 2019
 
-#### Guest Lecturer
-
-“Religion and Nationalism,” Religion and American Popular Culture, March 8, 2021
-
-#### Graduate Assistant for UVA Summer Transition Program
-
-Graduate Assistant Hour, Summer 2019
-
-#### Content Tutor for UVA Athletics Department
-
-Introduction to American Studies, Summer 2018
-
 #### Professional Development
+
+Participant, Social Justice and the Curriculum, Digital Pedagogy Lab, Summer 2021
 
 Facilitator, “Teaching as a Graduate Student,” Fall 2020
 
 c3Design, Center for Teaching and Learning, Summer 2020
 
-Tomorrow’s Professor Today,” Center for Teaching and Learning, 2019-2020
+Tomorrow’s Professor Today,” Center for Teaching and Learning, 2019-2021
 
 ### Central Methodist University, Fayette, MO
 
@@ -167,6 +162,8 @@ Participant, [Praxis Program Fellowship in Digital Humanities](https://scholarsl
 Contributing Author, [Scholars’ Lab Blog](https://scholarslab.lib.virginia.edu/people/connor-kenaston/), University of Virginia Library, University of Virginia, 2019-2020.
 
 Web Developer and Project Manager, Land and Legacy, Praxis Program, University of Virginia Library Scholars’ Lab, [https://landandlegacy.scholarslab.org](https://landandlegacy.scholarslab.org), 2019-2020.
+
+Creator and Host, [Faith and Race Podcast and Curriculum - Season 1](https://www.moumethodist.org/resourcedetail/faith-and-race-11693355), Missouri Conference of the United Methodist Church, Columbia, Missouri
 
 Summer Intern, [Greenbrier Historical Society & North House Museum](https://www.greenbrierhistorical.org/), Lewisburg, West Virginia.
 
@@ -188,13 +185,19 @@ Summer Intern, [Greenbrier Historical Society & North House Museum](https://www.
 
 ## INVITED TALKS
 
-“Listening to the Archive: Sound, Metadata, and Digital Humanities,” Washington & Lee University, March 19, 2020\. _Unable to deliver, talk cancelled due to COVID-19 outbreak._
+Panelist, "[Archival Research with Past PHS Fellows](https://www.history.pcusa.org/blog/2022/11/past-phs-live-archival-research-past-phs-fellows)," Presybterian Historical Society, webinar, November 14, 2022. 
 
-“‘You know the radio is noncontroversial’: Jews, Broadcasting, and the Public Interest,” American Jewish Archive, Cincinnati, Ohio, March 12, 2020.
+Lecturer, “Listening to the Archive: Sound, Metadata, and Digital Humanities,” Washington & Lee University, Lexinton, VA, March 19, 2020\. _Unable to deliver, talk cancelled due to COVID-19 outbreak._
+
+Lecturer, “‘You know the radio is noncontroversial’: Jews, Broadcasting, and the Public Interest,” American Jewish Archive, Cincinnati, Ohio, March 12, 2020.
 
 ## CAMPUS PRESENTATIONS
 
+Invited Respondent, Chapters 2-3 of Faculty Member’s Book Manuscript, Department of Religious Studies, University of Virginia, October 8, 2021.
+
 “Expanding Mainwave Religion: Race, Music, and Citizenship in 1930s Network Radio,” Virginia Colloquium in American Religion, March 24, 2021.
+
+Guest Lecturer, "Religion and Nationalism," Religion and American Popular Culture, Department of American Studies, University of Virginia, March 8, 2021.
 
 “Land and Legacy,” Scholars’ Lab, University of Virginia Library, May 5, 2020.
 
@@ -208,14 +211,13 @@ Invited Panelist for Memory & Identity Panel, Yale History Department’s First 
 
 Colloquium Speaker, Davenport College Mellon Forum for Senior Essays and Projects, January 21, 2014.
 
-## SERVICE
-
-Advisory Board, [_Essays in History_](essaysinhistory.com), an open access journal for emerging historians, University of Virginia, 2022-Present
+## SERVICE TO THE PROFESSION
 
 Editor, [_Essays in History_](essaysinhistory.com), an open access journal for emerging historians, University of Virginia, 2019-2022
 
 Associate Editor, [_Essays in History_](essaysinhistory.com), an open access journal for emerging historians, University of Virginia, 2019
 
+## DEPARTMENTAL SERVICE
 Participant, Graduate Diversity and Inclusion Working Group, 2019-2021
 
 Cohort Representative, Graduate History Student Association, University of Virginia, 2020-2021
@@ -235,3 +237,5 @@ American Society of Church History (ASCH)
 American Historical Association (AHA)
 
 American Studies Association (ASA)
+
+National Council on Public History (NCPH)
