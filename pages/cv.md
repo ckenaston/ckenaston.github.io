@@ -213,9 +213,9 @@ Colloquium Speaker, Davenport College Mellon Forum for Senior Essays and Project
 
 ## SERVICE TO THE PROFESSION
 
-Editor, [_Essays in History_](essaysinhistory.com), an open access journal for emerging historians, University of Virginia, 2019-2022
+Editor, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2019-2022
 
-Associate Editor, [_Essays in History_](essaysinhistory.com), an open access journal for emerging historians, University of Virginia, 2019
+Associate Editor, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2019
 
 ## DEPARTMENTAL SERVICE
 Participant, Graduate Diversity and Inclusion Working Group, 2019-2021
