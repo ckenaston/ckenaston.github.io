@@ -4,13 +4,15 @@ title: Curriculum Vitae
 permalink: /cv
 ---
 
-Last updated 01/09/2023
+Last updated 05/31/2023
 
 ## EDUCATION
 
 Ph.D. University of Virginia, Corcoran Department of History, 2022
 
-<ul class="cv-list"><li>Graduate Certificate in American Studies, 2019</li>
+<ul class="cv-list">
+<li>Dissertation: Faith Networks: National Broadcasting and the Making of American Religion</li>
+<li>Graduate Certificate in American Studies, 2019</li>
 <li> Passed Exam Fields with Distinction, 2018</li></ul>
 
 M.A. University of Virginia, Corcoran Department of History, 2018
@@ -109,37 +111,29 @@ Richter Summer Fellowship, Davenport College of Yale University, 2013
 
 #### Instructor of Record
 
+American Culture Seminar, Spring 2023
+
+American Images, Spring 2023
+
 American Women's History, Spring 2023
 
 African Americans and the Construction of America, Fall 2022
 
 US History from Colonial to Present, Fall 2022
 
+#### Profesional Development
+
+Teaching Workshop with Linda Nilson, Spring 2023
+
+Student Success Summit with Tia McNair, Spring 2023
+
 ### University of Virginia, Charlottesville, VA
 
 #### Instructor of Record
 
-American History Since 1865, Summer 2021
-
-#### Teaching and Graduate Assistant
-
-Summer Transition Program, Summer 2019
-
-America and War since 1914, Fall 2018
-
-American History Since 1865, Spring 2018
-
-Introduction to American Studies, Fall 2017
-
-#### Grading Assistant
-
-Black Fire: The Struggle for Social Justice and Racial Equality at the University of Virginia, Spring 2019
+American History Since 1865, Summer 2021 (online)
 
 #### Professional Development
-
-Participant, Social Justice and the Curriculum, Digital Pedagogy Lab, Summer 2021
-
-Facilitator, “Teaching as a Graduate Student,” Fall 2020
 
 c3Design, Center for Teaching and Learning, Summer 2020
 
@@ -154,6 +148,8 @@ History of American Methodism, Spring 2015
 ## PUBLIC AND DIGITAL HUMANITIES
 
 PhD Plus Fellow, [Jefferson School African American Heritage Center](https://jeffschoolheritagecenter.org/), Charlottesville, Virginia, 2020-2022.
+
+Participant, Social Justice and the Curriculum, Digital Pedagogy Lab, Summer 2021
 
 Digital Archiving Assistant, President’s Commission on the University in the Age of Segregation, University of Virginia, 2020.
 
@@ -213,16 +209,43 @@ Colloquium Speaker, Davenport College Mellon Forum for Senior Essays and Project
 
 ## SERVICE TO THE PROFESSION
 
+Advisory Board Member, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2022-Present.
+
 Editor, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2019-2022
 
 Associate Editor, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2019
 
-## DEPARTMENTAL SERVICE
+## UNIVERSITY AND DEPARTMENTAL SERVICE
+
+### Randolph College, Lynchburg, VA
+
+Team Member, Grant Application for Randolph College, Institute on Interfaith Excellence, 2023-Present
+
+Social Media Content Manager, [American Culture Program Instagram](https://www.instagram.com/rc_amcp/), 2022 - Present
+
+Website Administator, [American Culture Program Blog](https://rcamericancultureprogram.wordpress.com/), 2022 - Present
+
+### University of Virginia, Charlottesville, VA
+
+Facilitator, Teaching as a Graduate Student, Center for Teaching Excellence, Fall 2020
+
 Participant, Graduate Diversity and Inclusion Working Group, 2019-2021
 
 Cohort Representative, Graduate History Student Association, University of Virginia, 2020-2021
 
 ## COMMUNITY INVOLVEMENT
+
+Interviewee for National History Day Project, "Christopher Columbus," Jefferson Forest High School, January 13, 2023.
+
+Interviewee for National History Day Project, "Jazz Age," Jefferson Forest High School, January 26, 2023.
+
+Interviewee for National History Day Project, "Greensboro Sit-In," Jefferson Forest High School, February 22, 2023.
+
+Interviewee for National History Day Project, "Jazz Age," Jefferson Forest High School, February 22, 2023.
+
+Inaugural Chair of Local Elections Committee, Local 2265 of Communications Workers of America, 2022.
+
+Joint-Steering Committtee Member, Local 2265 of Communications Workers of America, 2021-2022.
 
 Co-Presenter, [Lessons from Labor History at UVA](https://www.youtube.com/watch?v=xFRH-PFtXnQ), United Campus Workers of Virginia, September 7, 2020.
 

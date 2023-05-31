@@ -15,6 +15,10 @@ In my classroom, both _what_ we are learning and _how_ we are learning matters. 
 
 ## Sample Syllabi
 
+"[Working for the Weekend](https://docs.google.com/document/d/1XfeMyBhd_KGS1saHgfWr0knWqr3cgwsQVga_d3NSPpw/edit?usp=sharing)," Randolph College, Spring 2023.
+
+"[American Women's History](https://docs.google.com/document/d/1-QK68E1OR8pC3JtI_KOC2qKjGwi6caC6TdO1g_zUncQ/edit?usp=sharing)," Randolph College, Spring 2023.
+
 "[African Americans and the Construction of America](https://docs.google.com/document/d/1rmlLSWJdgesPZRbIpq6mRdTjBR_1-tvSVYpBsz1q2aw/edit?usp=sharing)," Randolph College, Fall 2022.
 
 "[U.S. History from Colonial to the Present](https://docs.google.com/document/d/1MTiYBR8Lqm0o2uEInAVScEpDKke36MELA-LVOB_RyzY/edit?usp=sharing)," Randolph College, Fall 2022.
@@ -26,19 +30,11 @@ In my classroom, both _what_ we are learning and _how_ we are learning matters. 
 For my previous teaching experience, see my [curriculum vitae](cv.html#teaching).
 
 
-## Courses I am Prepared to Teach
+## Additional Courses I am Prepared to Teach
 
 ### Undergraduate
 
-U.S. History from Colonial to the Present
-
-African Americans and the Construction of America
-
 American History since 1865
-
-American Women's History
-
-Working for the Weekend
 
 History of Capitalism
 
@@ -56,7 +52,7 @@ Queer History
 
 Disability History
 
-Community: A History
+Community
 
 Introduction to American Studies
 
@@ -67,8 +63,6 @@ Introduction to Historical Methods
 Introduction to Public History
 
 The Democratic Project
-
-Christian America?
 
 US History Since 1945
 
@@ -82,8 +76,6 @@ Twentieth-Century U.S. Freedom Movements
 
 History of Whiteness
 
-Making History, Making Democracy
-
 God and Money
 
 Religion and Politics in Modern America
@@ -94,7 +86,9 @@ Historiography of American Religion
 
 US Social and Cultural History
 
-Religion and the Civil Rights Movement
+Intro to Digital History
+
+History of the Long Civil Rights Movement 
 
 Religion and Mass Media
 
