@@ -23,6 +23,11 @@ As part of "Working for the Weekend," we examined how people in the past have sh
 
 
 ## Public and Digital History Projects
+### [New Books in History](https://newbooksnetwork.com/category/history-1/history)
+<img class="thumbnail" src="Images/NBN-History.jpg" alt="NB in History Logo. It says the word 'History' in white over a brown backdrop">
+In the spring of 2023, I signed on as a host of New Books in History, a podcast channel on the New Books Network. The NBN is a consortium of author-interview podcast channels dedicated to public education. Founded in 2007 by Marshall Poe, it is the largest book-focused podcast network in the world, reaching about one million people per month. Listeners download close to five million episodes each month, and individual episodes are typically downloaded between 2-5k times in the first few months after publication. My [host profile](https://newbooksnetwork.com/hosts/profile/9455e2c0-9744-4a4d-93a5-e474a00e7b2e) includes a list of my past interviews.
+
+
 ### [_Land and Legacy_](https://landandlegacy.scholarslab.org/)
 <img class="thumbnail" src="Images/land-and-legacy.jpg" alt="Screenshot of Land and Legacy website">
 This project investigates the land development and expansion of the University of Virginia (UVA) and University of Virginia Foundation (UVAF) throughout Charlottesville and Albemarle County since the 1980s. The project focuses on how these changes have affected local communities, reshaped city and county topography, and contributed to local inequities. _Land and Legacy_ was created by the 2019-2020 Praxis fellows: Janet S. Dunkelbarger, Natasha Roth-Rowland, Lauren Van Nest, Chloe Downe Wells, and me. Based at the [Scholars’ Lab](https://scholarslab.lib.virginia.edu/) at the UVA Library, Praxis fellows receive training in digital methods and tools and are tasked with creating a collaboritive digital humanities project. In addition to the guidance and assistance provided by the Scholars’ Lab staff, we also consulted with library staff, researchers working on the [Charlottesville Equity Atlas](https://equityatlas.lib.virginia.edu/), and other members of the UVA and Charlottesville community.
