@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv
 ---
 
-Last updated 05/31/2023
+Last updated 06/322/2023
 
 ## EDUCATION
 
@@ -21,7 +21,9 @@ B.A. Yale University, Distinction in History, _cum laude_, 2014
 
 ## PROFESSIONAL APPOINTMENTS
 
-Randolph College, Ainsworth Visiting Assistant Professor of American Culture (2022-Present)
+Randolph College, Assistant Professor of History and Ainsworth Scholar in American Culture (2023-Present)
+
+Randolph College, Ainsworth Visiting Assistant Professor of American Culture (2022-2023)
 
 ## PUBLICATIONS
 
@@ -146,6 +148,8 @@ Tomorrow’s Professor Today,” Center for Teaching and Learning, 2019-2021
 History of American Methodism, Spring 2015
 
 ## PUBLIC AND DIGITAL HUMANITIES
+
+Host, New Books in History, [New Books Network Podcast](https://newbooksnetwork.com/hosts/profile/9455e2c0-9744-4a4d-93a5-e474a00e7b2e), 2023-Present. 
 
 PhD Plus Fellow, [Jefferson School African American Heritage Center](https://jeffschoolheritagecenter.org/), Charlottesville, Virginia, 2020-2022.
 
