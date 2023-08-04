@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv
 ---
 
-Last updated 06/322/2023
+Last updated 08/04/2023
 
 ## EDUCATION
 
@@ -147,6 +147,17 @@ Tomorrow’s Professor Today,” Center for Teaching and Learning, 2019-2021
 
 History of American Methodism, Spring 2015
 
+## ADVISING
+
+### Randolph College, Lynchburg, VA
+
+#### Undergraduate Senior Capstone Projects
+
+Madisyn Tyree, “A War on Women’s Bodies: The Lynchburg Colony for the Epileptic and Feebleminded” (2022)
+<li>Winner of Best Senior Paper Award, Effective Writing and Speaking Board, Randolph College, 2022-2023</li>
+
+Thomas Snoddy, “The Great Migration and its Impacts on Norfolk,” (2022)
+
 ## PUBLIC AND DIGITAL HUMANITIES
 
 Host, New Books in History, [New Books Network Podcast](https://newbooksnetwork.com/hosts/profile/9455e2c0-9744-4a4d-93a5-e474a00e7b2e), 2023-Present. 
@@ -223,11 +234,21 @@ Associate Editor, [_Essays in History_](https://essaysinhistoryjournal.com/), an
 
 ### Randolph College, Lynchburg, VA
 
-Team Member, Grant Application for Randolph College, Institute on Interfaith Excellence, 2023-Present
+#### Search Committees
+Committee Member, Chief Diversity Officer and Director of Diversity, Identity, Culture, and Inclusion, 2023-Present
 
+#### Standing Committees
+Teacher Education Advisory Committee, 2023-Present
+
+Thayer Lecture Committee, 2023-Present
+
+#### Digital Service
 Social Media Content Manager, [American Culture Program Instagram](https://www.instagram.com/rc_amcp/), 2022 - Present
 
 Website Administator, [American Culture Program Blog](https://rcamericancultureprogram.wordpress.com/), 2022 - Present
+
+#### Other
+Team Member, Grant Application for Randolph College, Institute on Interfaith Excellence, 2023
 
 ### University of Virginia, Charlottesville, VA
 
