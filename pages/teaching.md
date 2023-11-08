@@ -15,11 +15,15 @@ In my classroom, both _what_ we are learning and _how_ we are learning matters. 
 
 ## Sample Syllabi
 
+"[History of Atlantic Capitalism](https://docs.google.com/document/d/1U2oVjNgIgDkVD4SXanJXUa096MIbcUiFeokWofIVzeI/edit?usp=sharing)," Randolph College, Fall 2023.
+
 "[Working for the Weekend](https://docs.google.com/document/d/1XfeMyBhd_KGS1saHgfWr0knWqr3cgwsQVga_d3NSPpw/edit?usp=sharing)," Randolph College, Spring 2023.
 
 "[American Women's History](https://docs.google.com/document/d/1-QK68E1OR8pC3JtI_KOC2qKjGwi6caC6TdO1g_zUncQ/edit?usp=sharing)," Randolph College, Spring 2023.
 
-"[African Americans and the Construction of America](https://docs.google.com/document/d/1rmlLSWJdgesPZRbIpq6mRdTjBR_1-tvSVYpBsz1q2aw/edit?usp=sharing)," Randolph College, Fall 2022.
+"[African Americans and the Construction of America](https://docs.google.com/document/d/1fWl6Klhb5w-oNfiBr1_ein1581_qfVmG24Cl_4FPWoE/edit?usp=sharing), Randolph College, Fall 2023. Previous iterations:
+[Fall 2022](https://docs.google.com/document/d/1rmlLSWJdgesPZRbIpq6mRdTjBR_1-tvSVYpBsz1q2aw/edit?usp=sharing).
+
 
 "[U.S. History from Colonial to the Present](https://docs.google.com/document/d/1MTiYBR8Lqm0o2uEInAVScEpDKke36MELA-LVOB_RyzY/edit?usp=sharing)," Randolph College, Fall 2022.
 
