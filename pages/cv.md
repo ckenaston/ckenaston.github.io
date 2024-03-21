@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv
 ---
 
-Last updated 08/04/2023
+Last updated 03/21/2024
 
 ## EDUCATION
 
@@ -113,17 +113,21 @@ Richter Summer Fellowship, Davenport College of Yale University, 2013
 
 #### Instructor of Record
 
-American Culture Seminar, Spring 2023
+History of Atlantic Capitalism, Fall 2024
 
-American Images, Spring 2023
+American Culture Seminar, Spring 2024, Spring 2023
+
+American Images, Spring 2024, Spring 2023
 
 American Women's History, Spring 2023
 
-African Americans and the Construction of America, Fall 2022
+African Americans and the Construction of America, Fall 2023, Fall 2022,
 
-US History from Colonial to Present, Fall 2022
+US History from Colonial to Present, Spring 2024, Fall 2022
 
 #### Profesional Development
+
+Student Success Summit with Anthony Jack, Spring 2024 
 
 Teaching Workshop with Linda Nilson, Spring 2023
 
@@ -151,12 +155,11 @@ History of American Methodism, Spring 2015
 
 ### Randolph College, Lynchburg, VA
 
-#### Undergraduate Senior Capstone Projects
+#### Select Undergraduate Senior Capstone Projects
 
 Madisyn Tyree, “A War on Women’s Bodies: The Lynchburg Colony for the Epileptic and Feebleminded” (2022)
 <li>Winner of Best Senior Paper Award, Effective Writing and Speaking Board, Randolph College, 2022-2023</li>
 
-Thomas Snoddy, “The Great Migration and its Impacts on Norfolk,” (2022)
 
 ## PUBLIC AND DIGITAL HUMANITIES
 
@@ -179,6 +182,8 @@ Creator and Host, [Faith and Race Podcast and Curriculum - Season 1](https://www
 Summer Intern, [Greenbrier Historical Society & North House Museum](https://www.greenbrierhistorical.org/), Lewisburg, West Virginia.
 
 ## CONFERENCE ACTIVITY
+
+"The Greatest Story: Commercial Networks and Religion in the American Century," Business History Association, Providence, RI, March 16, 2024.
 
 “‘Fireside Favorites’: Ministry, Minstrelsy, and the Southernaires,” Organization of American Historians, Boston, April 2, 2022.
 
@@ -234,13 +239,27 @@ Associate Editor, [_Essays in History_](https://essaysinhistoryjournal.com/), an
 
 ### Randolph College, Lynchburg, VA
 
-#### Search Committees
+#### Campus Events
+Hosted and arranged Eric Martin, "Signs of Faith Against Fascism," Randolph College, Jan. 25, 2024.
+
+Co-hosted "Teaching about Race and Racism," Lunch & Learn, Randolph College, Feb 7, 2024.
+
+#### Search Committees Hosted
 Committee Member, Chief Diversity Officer and Director of Diversity, Identity, Culture, and Inclusion, 2023-Present
+
+Non-Committee Member who assisted with Job Advertisement revisions, Visting Ainsworth Scholar of American Culture, 2023. 
 
 #### Standing Committees
 Teacher Education Advisory Committee, 2023-Present
 
+Education Preparatory Program Committee, 2023-Present.
+
 Thayer Lecture Committee, 2023-Present
+
+#### Admissions
+Interviewer, Let Wisdom Rise Scholarships, Randolph College, 2024.
+
+Co-created "History Day." Created and facilitated workshop, "Archival Silences in the History of American Slavery." Randolph College, March 20, 2024. 
 
 #### Digital Service
 Social Media Content Manager, [American Culture Program Instagram](https://www.instagram.com/rc_amcp/), 2022 - Present
@@ -287,3 +306,5 @@ American Historical Association (AHA)
 American Studies Association (ASA)
 
 National Council on Public History (NCPH)
+
+Business History Association

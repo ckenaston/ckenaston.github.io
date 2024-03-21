@@ -5,9 +5,9 @@ permalink: /projects
 ---
 
 ## Research Projects
-### [Faith Networks: National Broadcasting and the Making of American Religion](https://doi.org/10.18130/a2nx-9j05)
+### [The Big Three: Commercial Radio Networks and the Making of Tri-Faith America](https://doi.org/10.18130/a2nx-9j05)
 <img class="thumbnail" src="Images/Diss-logo.PNG" alt="Illustration by Rachel Kenaston of a church and radio tower shaking hands, image based on a cartoon in 1952 pamphlet, 'Broadcasting Religion: Manual for Local Use'.">
- I am currently working on a history of religion and radio in the American century. Unlike previous histories of US religious broadcasting that have focused primarily on conservative evangelicals, _Faith Networks_ analyzes the filtered spectrum of sounds, theologies, and people heard on national radio networks’ so-called religious broadcasts. I reveal how liberal Protestant, Jewish, and Catholic broadcasters unintentionally facilitated the rise of American mass culture by giving their blessing to a privatized mass communications industry in exchange for free airtime. My book offers an innovative way to think about “American religion” not as a set of religions practiced within the United States but as a concept created by an emerging mass culture.
+ I am currently working on a history of religion and radio in the American century. Unlike previous histories of US religious broadcasting that have focused primarily on conservative evangelicals, _The Big Three_ analyzes the filtered spectrum of sounds, theologies, and people heard on national radio networks’ so-called religious broadcasts. I reveal how liberal Protestant, Jewish, and Catholic broadcasters unintentionally facilitated the rise of American mass culture by giving their blessing to a privatized mass communications industry in exchange for free airtime. My book offers an innovative way to think about “American religion” not as a set of religions practiced within the United States but as a concept created by an emerging mass culture.
 
 
 ### [Step by Step: American Interracialism and the Origins of Talk-First Activism](https://doi.org/10.1017/mah.2022.2)
