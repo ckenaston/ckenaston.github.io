@@ -96,6 +96,6 @@ History of the Long Civil Rights Movement
 
 Religion and Mass Media
 
-American Radio History
+American Broadcasting
 
 Pedagogy and Power
