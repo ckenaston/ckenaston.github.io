@@ -1,20 +1,15 @@
-# Dependencies
-highlighter:      rouge
-
-# Permalinks
-permalink:        pretty
-
-# Setup
+# _config.yml
 title:            Connor S. Kenaston
 tagline:          'Scholar of U.S. History'
 description:      'Social and cultural historian of the U.S. and the Atlantic World'
-url:              https://ckenaston.github.io/
-baseurl:          /
+url:              https://connorskenaston.com
+baseurl:          "" # root of the domain
 
+# Other configurations
+highlighter:      rouge
+permalink:        pretty
 plugins:          [jekyll-paginate]
 paginate:         5
-
-# Custom vars
 version:          2.1.0
 
 github:
