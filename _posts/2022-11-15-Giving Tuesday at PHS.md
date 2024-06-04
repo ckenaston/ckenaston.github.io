@@ -9,4 +9,4 @@ This past week, I participated in a panel discussion with other grant recipients
 
 
 <a href="https://www.history.pcusa.org/blog/2022/11/past-phs-live-archival-research-past-phs-fellows">
-<img class="headshot" src="Images/PHS.jpg" alt="Screenshot of the PHS LIVE webinar. Clockwise, starting in left corner: PHS Communications Associate McKenna Britton, Dr. Reuben Loffman, Dr. Paul Putz, Sopanit Angusingha, and Dr. Connor Kenaston"></a>
+<img class="headshot" src="/Images/PHS.jpg" alt="Screenshot of the PHS LIVE webinar. Clockwise, starting in left corner: PHS Communications Associate McKenna Britton, Dr. Reuben Loffman, Dr. Paul Putz, Sopanit Angusingha, and Dr. Connor Kenaston"></a>

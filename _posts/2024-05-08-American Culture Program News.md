@@ -12,4 +12,4 @@ For the last two years, we explored the intersection of labor, leisure, and musi
 Huge shoutout to my wonderful colleague Julio Rodriguez, our logistics expert Luisa Carrera, and to two great cohorts of students. And a massive thanks to the MANY people who we met with and learned from over the last two years. 
 
 <a href = "https://www.randolphcollege.edu/news/2024/05/american-culture-program-explores-labor-leisure-and-music-in-the-u-s/">
-<img class="headshot" src="Images/i-am-man.jpg" alt="Photo of American Culture Program students and faculty with leaders of the Memphis union. All pictured are raising their fists and many are holding signs that say things such as I Am a Man or Don't Mess with Memphis"> </a>
+<img class="headshot" src="{{ site.url }}{{ site.baseurl }}/Images/i-am-man.jpg" alt="Photo of American Culture Program students and faculty with leaders of the Memphis union. All pictured are raising their fists and many are holding signs that say things such as I Am a Man or Don't Mess with Memphis"> </a>

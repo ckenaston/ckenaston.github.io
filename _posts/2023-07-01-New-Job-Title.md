@@ -8,4 +8,4 @@ I'm happy to announce that as of today, I have a new job title: Assistant Profes
 I have really enjoyed working at Randolph this past year and am looking forward to this next phase. I have loved being back in the classroom, connecting with students, making new friends, and exploring new places with Maria Niechwiadowicz and our pup, Franklin. Moving and transitions are often challenging, and I'm so thankful to the many, many folks near and far who have supported and accompanied us on our journey thus far. 
 
 <a href="https://www.randolphcollege.edu/history/">
-<img class= "headshot" src="Images/randolph-sunrise.JPG" alt="Sunrise of Randolph College's red-brick Main Hall. The sky is light pink and blue."></a>
+<img class= "headshot" src="{{ site.url }}{{ site.baseurl }}/Images/randolph-sunrise.JPG" alt="Sunrise of Randolph College's red-brick Main Hall. The sky is light pink and blue."></a>
