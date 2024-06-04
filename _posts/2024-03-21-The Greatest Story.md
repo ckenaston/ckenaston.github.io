@@ -14,5 +14,5 @@ My paper, "The Greatest Story: Commercial Radio and Religion in the American Cen
 This was my first time attending the Business History Conference, and I really enjoyed it. Special thanks to Randolph College's Professional Development Committee for supporting my trip to Providence!
 
 <a href ="https://www.randolphcollege.edu/news/2024/03/kenaston-presents-essay-at-business-history-conference/">
-<img class="headshot" src="{{ site.url }}{{ site.baseurl }}/Images/i-am-man.jpg" alt="Photo of Kenaston holding the program for the Business History Conference. The program's background is a photograph of downtown Providence.">
+<img class="headshot" src="/Images/bhc-2024.jpg" alt="Photo of Kenaston holding the program for the Business History Conference. The program's background is a photograph of downtown Providence.">
 </a>

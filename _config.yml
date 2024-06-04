@@ -9,7 +9,7 @@ baseurl:          "" # root of the domain
 highlighter:      rouge
 permalink:        pretty
 plugins:          [jekyll-paginate]
-paginate:         5
+paginate:         7
 version:          2.1.0
 
 github:
