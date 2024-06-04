@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv
 ---
 
-Last updated 03/21/2024
+Last updated 06/04/2024
 
 ## EDUCATION
 
@@ -21,7 +21,9 @@ B.A. Yale University, Distinction in History, _cum laude_, 2014
 
 ## PROFESSIONAL APPOINTMENTS
 
-Randolph College, Assistant Professor of History and Ainsworth Scholar in American Culture (2023-Present)
+Randolph College, Assistant Professor of History (2024-Present)
+
+Randolph College, Assistant Professor of History and Ainsworth Scholar in American Culture (2023-2024)
 
 Randolph College, Ainsworth Visiting Assistant Professor of American Culture (2022-2023)
 
@@ -49,7 +51,61 @@ Randolph College, Ainsworth Visiting Assistant Professor of American Culture (20
 
 “[Reds, Rosaries, and Revolutionary Governments: Church-State Relations in Cuba and Nicaragua in the Aftermath of Revolution](https://historicalreview.yale.edu/sites/default/files/yhr_spring_2013_web.pdf),” _Yale Historical Review_ 2 (Spring 2013): 58-71\.
 
+### Under Review
+Review of _Dixie Heretic: The Civil Rights Odyssey of Renwick C. Kennedy_ by Tennant McWilliams, _Journal of American History_.
+
+### Manuscripts in Preparation
+“Coloring Sacred Sounds: Broadcasting Racial and Religious Outsiders in Radio’s Network Era”
+The Big Three: Commercial Broadcasting and the Making of Tri-Faith America
+
+## TEACHING
+
+### Randolph College, Lynchburg, VA
+
+#### Instructor of Record
+
+History of Atlantic Capitalism (Fall 2023)
+American Culture Seminar (Spring 2024; Spring 2023)
+American Images (Spring 2024; Spring 2023)
+American Women’s History (Spring 2023)
+African Americans and the Construction of America (Fall 2023; Fall 2022)
+US History from Colonial to the Present (Spring 2024; Fall 2022)
+
+#### Profesional Development
+
+Student Success Summit with Anthony Jack (Spring 2024)
+Teaching Workshop with Linda Nilson (Spring 2023).
+Student Success Summit with Tia McNair (Spring 2023).
+
+### University of Virginia, Charlottesville, VA
+
+#### Instructor of Record
+
+American History Since 1865 (Summer 2021-online)
+
+#### Professional Development
+
+c3Design, Center for Teaching and Learning, Summer 2020
+Tomorrow’s Professor Today,” Center for Teaching and Learning, 2019-2021
+
+### Central Methodist University, Fayette, MO
+
+#### Co-Instructor
+
+History of American Methodism (Spring 2015)
+
+## ADVISING
+
+### Randolph College, Lynchburg, VA
+
+#### Select Undergraduate Senior Capstone Projects
+
+Madisyn Tyree, “A War on Women’s Bodies: The Lynchburg Colony for the Epileptic and Feebleminded” (2022)
+<li>Winner of Best Senior Paper Award, Effective Writing and Speaking Board, Randolph College, 2022-2023</li>
+
 ## GRANTS, FELLOWSHIPS, AND AWARDS
+Professional Development Grant, Randolph College, 2023
+Campus Events Committee Grant, Randolph College, 2023
 Samuel and Marion Merrill Graduate Student Travel Grant, Organization of American Historians, 2022
 
 PhD Plus Fellowship, Office of Graduate and Postdoctoral Affairs, University of Virginia, 2021
@@ -105,61 +161,6 @@ Andrew D. White Senior Essay Prize, Yale History Department, 2014
 Barbara Wertheimer Prize, New York Labor History Association, 2014
 
 Richter Summer Fellowship, Davenport College of Yale University, 2013
-
-
-## TEACHING
-
-### Randolph College, Lynchburg, VA
-
-#### Instructor of Record
-
-History of Atlantic Capitalism, Fall 2024
-
-American Culture Seminar, Spring 2024, Spring 2023
-
-American Images, Spring 2024, Spring 2023
-
-American Women's History, Spring 2023
-
-African Americans and the Construction of America, Fall 2023, Fall 2022,
-
-US History from Colonial to Present, Spring 2024, Fall 2022
-
-#### Profesional Development
-
-Student Success Summit with Anthony Jack, Spring 2024 
-
-Teaching Workshop with Linda Nilson, Spring 2023
-
-Student Success Summit with Tia McNair, Spring 2023
-
-### University of Virginia, Charlottesville, VA
-
-#### Instructor of Record
-
-American History Since 1865, Summer 2021 (online)
-
-#### Professional Development
-
-c3Design, Center for Teaching and Learning, Summer 2020
-
-Tomorrow’s Professor Today,” Center for Teaching and Learning, 2019-2021
-
-### Central Methodist University, Fayette, MO
-
-#### Co-Instructor
-
-History of American Methodism, Spring 2015
-
-## ADVISING
-
-### Randolph College, Lynchburg, VA
-
-#### Select Undergraduate Senior Capstone Projects
-
-Madisyn Tyree, “A War on Women’s Bodies: The Lynchburg Colony for the Epileptic and Feebleminded” (2022)
-<li>Winner of Best Senior Paper Award, Effective Writing and Speaking Board, Randolph College, 2022-2023</li>
-
 
 ## PUBLIC AND DIGITAL HUMANITIES
 
@@ -229,9 +230,9 @@ Colloquium Speaker, Davenport College Mellon Forum for Senior Essays and Project
 
 ## SERVICE TO THE PROFESSION
 
-Advisory Board Member, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2022-Present.
+Advisory Board Member, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2022-2023.
 
-Editor, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2019-2022
+Editor, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2019-2022.
 
 Associate Editor, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2019
 
@@ -239,34 +240,38 @@ Associate Editor, [_Essays in History_](https://essaysinhistoryjournal.com/), an
 
 ### Randolph College, Lynchburg, VA
 
-#### Campus Events
-Hosted and arranged Eric Martin, "Signs of Faith Against Fascism," Randolph College, Jan. 25, 2024.
+#### 
+Hosted Dr. Eric Martin for public lecture, "Signs of Faith Against Fascism," Randolph College, Jan. 25, 2024.
+Co-hosted Lunch & Learn, "Teaching about Race and Racism," Randolph College, Feb 7, 2024.
+Hosted Lunch & Learn, "American Culture Program," Randolph College, Oct 31, 2023
+Hosted Lunch & Learn, "American Culture Program," Randolph College, Nov 15, 2022.
 
-Co-hosted "Teaching about Race and Racism," Lunch & Learn, Randolph College, Feb 7, 2024.
-
-#### Search Committees Hosted
-Committee Member, Chief Diversity Officer and Director of Diversity, Identity, Culture, and Inclusion, 2023-Present
-
-Non-Committee Member who assisted with Job Advertisement revisions, Visting Ainsworth Scholar of American Culture, 2023. 
+#### Search Committees
+Chief Diversity Officer and Director of Diversity, Identity, Culture, and Inclusion, 2023-2024.
 
 #### Standing Committees
 Teacher Education Advisory Committee, 2023-Present
-
 Education Preparatory Program Committee, 2023-Present.
-
 Thayer Lecture Committee, 2023-Present
 
+#### Ad-Hoc Committees
+Community Advisory Committee, 2023
+On-line Framing Group, 2023
+
 #### Admissions
+Co-created "History Day." Created and facilitated workshop, "Archival Silences in the History of American Slavery." Randolph College, March 20, 2024.
+
 Interviewer, Let Wisdom Rise Scholarships, Randolph College, 2024.
 
-Co-created "History Day." Created and facilitated workshop, "Archival Silences in the History of American Slavery." Randolph College, March 20, 2024. 
-
 #### Digital Service
-Social Media Content Manager, [American Culture Program Instagram](https://www.instagram.com/rc_amcp/), 2022 - Present
+Updated [History Department Website](https://www.randolphcollege.edu/history/), 2023.
 
-Website Administator, [American Culture Program Blog](https://rcamericancultureprogram.wordpress.com/), 2022 - Present
+Account Manager, [American Culture Program Instagram](https://www.instagram.com/rc_amcp/), 2022 - 2023.
+
+Administator, [American Culture Program Blog](https://rcamericancultureprogram.wordpress.com/), 2022 - 2024.
 
 #### Other
+Assisted Ainsworth Search Committee, 2023-2024.
 Team Member, Grant Application for Randolph College, Institute on Interfaith Excellence, 2023
 
 ### University of Virginia, Charlottesville, VA
@@ -278,7 +283,8 @@ Participant, Graduate Diversity and Inclusion Working Group, 2019-2021
 Cohort Representative, Graduate History Student Association, University of Virginia, 2020-2021
 
 ## COMMUNITY INVOLVEMENT
-
+Co-Host and IT Director, Virginia American Association of University Professors, April 27, 2024.
+Consultant, Local Elections Committee of United Campus Workers of Virginia, Fall 2023.
 Interviewee for National History Day Project, "Christopher Columbus," Jefferson Forest High School, January 13, 2023.
 
 Interviewee for National History Day Project, "Jazz Age," Jefferson Forest High School, January 26, 2023.
@@ -307,4 +313,4 @@ American Studies Association (ASA)
 
 National Council on Public History (NCPH)
 
-Business History Association
+Business History Association (BHA)

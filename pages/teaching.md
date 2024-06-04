@@ -24,7 +24,6 @@ In my classroom, both _what_ we are learning and _how_ we are learning matters. 
 "[African Americans and the Construction of America](https://docs.google.com/document/d/1fWl6Klhb5w-oNfiBr1_ein1581_qfVmG24Cl_4FPWoE/edit?usp=sharing), Randolph College, Fall 2023. Previous iterations:
 [Fall 2022](https://docs.google.com/document/d/1rmlLSWJdgesPZRbIpq6mRdTjBR_1-tvSVYpBsz1q2aw/edit?usp=sharing).
 
-
 "[U.S. History from Colonial to the Present](https://docs.google.com/document/d/1MTiYBR8Lqm0o2uEInAVScEpDKke36MELA-LVOB_RyzY/edit?usp=sharing)," Randolph College, Fall 2022.
 
 "[American History Since 1865](https://docs.google.com/document/d/1vT8PyDJp56nDRcqXNjMallt9QP1kxwRjxRUB3idqA68/edit?usp=sharing)," University of Virginia, Summer 2021.
@@ -39,63 +38,35 @@ For my previous teaching experience, see my [curriculum vitae](cv.html#teaching)
 ### Undergraduate
 
 American History since 1865
-
 History of Capitalism
-
 American Empire
-
 Revolutions
-
-Religions of the Atlantic World
-
 Black Freedom Movements
-
 Global History of Sport
-
 Queer History
-
 Disability History
-
 Community
-
+Food
 Introduction to American Studies
-
 History of American Religion
-
 Introduction to Historical Methods
-
 Introduction to Public History
-
 The Democratic Project
-
 US History Since 1945
-
 Doing Digital History
-
 Sounding America
-
 Biography and History
-
 Twentieth-Century U.S. Freedom Movements
-
 History of Whiteness
-
 God and Money
-
 Religion and Politics in Modern America
 
 ### Graduate
 
 Historiography of American Religion
-
 US Social and Cultural History
-
 Intro to Digital History
-
 History of the Long Civil Rights Movement 
-
 Religion and Mass Media
-
 American Broadcasting
-
 Pedagogy and Power
