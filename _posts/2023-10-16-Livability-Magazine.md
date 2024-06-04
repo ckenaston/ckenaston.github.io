@@ -7,4 +7,4 @@ We moved to Lynchburg last summer and have been working hard to find friends and
 
 
 <a href="https://livability.com/va/lynchburg/love-where-you-live/new-to-lynchburg-va-find-out-how-to-get-connected/">
-<img class= "headshot" src="/Images/livability.JPG" alt="Screenshot of article featuring Connor Kenaston and Maria Niechwiadowicz. The screenshot includes text that can be found in the article, as well as a photo of Connor, Maria, and their dog Franklin."></a>
+<img class= "headshot" src="/Images/liv.jpg" alt="Screenshot of article featuring Connor Kenaston and Maria Niechwiadowicz. The screenshot includes text that can be found in the article, as well as a photo of Connor, Maria, and their dog Franklin."></a>
