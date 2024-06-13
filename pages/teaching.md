@@ -21,7 +21,7 @@ In spring 2024, Randolph published an article about my time leading the [America
 
 ## Advising
 
-I have advised several undergraduate senior capstones in history. These essays have covered a range of topics within US history. As an advisor, I focus on providing a challenging yet supportive environment where students learn how to give and receive constructive feedback. In 2023, one of my advisees won Randolph College's "Best Senior Paper Award."
+I have advised several undergraduate senior capstones in history, covering a range of topics. As an advisor, I focus on providing a challenging yet supportive environment where students learn how to give and receive constructive feedback. In 2023, one of my advisees won Randolph College's "Best Senior Paper Award."
 
 
 ## Sample Syllabi
