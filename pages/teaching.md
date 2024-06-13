@@ -11,9 +11,18 @@ permalink: /teaching
 
 In my classroom, both _what_ we are learning and _how_ we are learning matters. My first priority is to cultivate a democratic community where students become active participants in the learning process. I design fully accessible courses that prioritize improvement, engaging diverse perspectives, and teaching students to think like historians. My goal is that any course I teach will be part of a student’s lifelong journey of becoming a deep thinker and responsible citizen.
 
-## Publications about Teaching
+## Writing about Teaching
 
 “[With Care and Context](https://hybridpedagogy.org/with-care-and-context/),” _Hybrid Pedagogy_, June 17, 2021. In this article, I reflect on viewing lynching photographs as an undergraduate student and how my thinking about the merits of teaching with such images has evolved over time.
+
+## News about My Teaching
+
+In spring 2024, Randolph published an article about my time leading the [American Culture Program](https://www.randolphcollege.edu/news/2024/05/american-culture-program-explores-labor-leisure-and-music-in-the-u-s/).
+
+## Advising
+
+I have advised several undergraduate senior capstones in history. These essays have covered a range of topics within US history. As an advisor, I focus on providing a challenging yet supportive environment where students learn how to give and receive constructive feedback. In 2023, one of my advisees won Randolph College's "Best Senior Paper Award."
+
 
 ## Sample Syllabi
 
