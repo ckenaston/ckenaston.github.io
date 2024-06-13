@@ -4,6 +4,8 @@ title: Teaching
 permalink: /teaching
 ---
 
+<a href = "https://www.randolphcollege.edu/news/2024/05/american-culture-program-explores-labor-leisure-and-music-in-the-u-s/">
+<img class="headshot" src="/Images/i-am-man.jpg" alt="Photo of American Culture Program students and faculty with leaders of the Memphis union. All pictured are raising their fists and many are holding signs that say things such as I Am a Man or Don't Mess with Memphis"> </a>
 
 ## Philosophy
 
@@ -38,35 +40,63 @@ For my previous teaching experience, see my [curriculum vitae](cv.html#teaching)
 ### Undergraduate
 
 American History since 1865
+
 History of Capitalism
+
 American Empire
+
 Revolutions
+
 Black Freedom Movements
+
 Global History of Sport
+
 Queer History
+
 Disability History
+
 Community
-Food
+
+American Foodways
+
 Introduction to American Studies
+
 History of American Religion
+
 Introduction to Historical Methods
+
 Introduction to Public History
+
 The Democratic Project
+
 US History Since 1945
+
 Doing Digital History
+
 Sounding America
+
 Biography and History
+
 Twentieth-Century U.S. Freedom Movements
+
 History of Whiteness
+
 God and Money
+
 Religion and Politics in Modern America
 
 ### Graduate
 
 Historiography of American Religion
+
 US Social and Cultural History
+
 Intro to Digital History
+
 History of the Long Civil Rights Movement 
+
 Religion and Mass Media
+
 American Broadcasting
+
 Pedagogy and Power
