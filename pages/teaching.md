@@ -9,7 +9,7 @@ permalink: /teaching
 
 ## Philosophy
 
-In my classroom, both _what_ we are learning and _how_ we are learning matters. My first priority is to cultivate a democratic community where students become active participants in the learning process. I design fully accessible courses that prioritize improvement, engaging diverse perspectives, and teaching students to think like historians. My goal is that any course I teach will be part of a student’s lifelong journey of becoming a deep thinker and responsible citizen.
+In my classroom, both _what_ we are learning and _how_ we are learning matters. My first priority is to cultivate a democratic community where students become active participants in the learning process. My courses prioritize improvement, engaging diverse perspectives, and teaching students to think like historians. I have increasingly embraced a “history lab” approach to my lesson plans; while I still lecture occasionally, my class periods are increasingly filled with discussion and hands-on activities. Ultimately, my goal is that any course I teach will be part of a student’s lifelong journey of becoming a deep thinker and responsible citizen.
 
 ## Writing about Teaching
 
@@ -21,7 +21,7 @@ In spring 2024, Randolph published an article about my time leading the [America
 
 ## Advising
 
-I have advised several undergraduate senior capstones in history, covering a range of topics. As an advisor, I focus on providing a challenging yet supportive environment where students learn how to give and receive constructive feedback. In 2023, one of my advisees won Randolph College's "Best Senior Paper Award."
+I have advised several Randolph first-year students and History majors. I have also advised many undergraduate senior capstones in history, covering a range of topics. As an advisor, I focus on providing a challenging yet supportive environment where students learn how to give and receive constructive feedback. In 2023, one of my advisees won Randolph College's "Best Senior Paper Award."
 
 
 ## Sample Syllabi
