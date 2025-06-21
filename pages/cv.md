@@ -45,6 +45,8 @@ Randolph College, Ainsworth Visiting Assistant Professor of American Culture (20
 
 ### Book Reviews
 
+[Review of Dixie Heretic: The Civil Rights Odyssey of Renwick C. Kennedy by Tennant McWilliams](https://academic.oup.com/jah/article/111/3/622/7921854), _Journal of American History_ 111, no. 3 (December 2024): 622-623.
+
 [Review of _Anointed with Oil: How Christianity and Crude Made Modern America_, by Darren Dochuk](https://www.christiancentury.org/review/books/fundamentalists-modernists-and-oil-they-both-swam), _Christian Century_ 136, no. 22 (October 23, 2019): 46-47\.
 
 ### Other Publications
@@ -52,11 +54,11 @@ Randolph College, Ainsworth Visiting Assistant Professor of American Culture (20
 “[Reds, Rosaries, and Revolutionary Governments: Church-State Relations in Cuba and Nicaragua in the Aftermath of Revolution](https://historicalreview.yale.edu/sites/default/files/yhr_spring_2013_web.pdf),” _Yale Historical Review_ 2 (Spring 2013): 58-71\.
 
 ### Under Review
-Review of _Dixie Heretic: The Civil Rights Odyssey of Renwick C. Kennedy_ by Tennant McWilliams, _Journal of American History_.
+“Coloring Sacred Sounds: Broadcasting Racial and Religious Outsiders in Radio’s Network Era,” _Religion and American Culture_.
+“Religious Radio,” _The Palace of Thundering Gods: A Massively Collaborative Open History of Religion in the United States_ (Stanford University Press, forthcoming).
 
 ### Manuscripts in Preparation
-“Coloring Sacred Sounds: Broadcasting Racial and Religious Outsiders in Radio’s Network Era”
-The Big Three: Commercial Broadcasting and the Making of Tri-Faith America
+"Spirit of Power: Radio, Religion, and the Sound of the American Century"
 
 ## TEACHING
 
@@ -64,15 +66,18 @@ The Big Three: Commercial Broadcasting and the Making of Tri-Faith America
 
 #### Instructor of Record
 
+A Life More Abundant (Fall 2024)
 History of Atlantic Capitalism (Fall 2023)
 American Culture Seminar (Spring 2024; Spring 2023)
 American Images (Spring 2024; Spring 2023)
-American Women’s History (Spring 2023)
+American Women’s History (Spring 2025; Spring 2023)
 African Americans and the Construction of America (Fall 2023; Fall 2022)
-US History from Colonial to the Present (Spring 2024; Fall 2022)
+US History from Colonial to the Present (Fall 2025; Spring 2024; Fall 2022)
+Senior Capstone: Research (Fall 2022)
+Senior Capstone: Writing (Spring 2025; Fall 2023; Fall 2022)
 
 #### Profesional Development
-
+American Historical Association Virginia Conference on Introductory History Courses (Spring 2025)
 Student Success Summit with Anthony Jack (Spring 2024)
 Teaching Workshop with Linda Nilson (Spring 2023).
 Student Success Summit with Tia McNair (Spring 2023).
@@ -98,12 +103,18 @@ History of American Methodism (Spring 2015)
 
 ### Randolph College, Lynchburg, VA
 
+First-Year Advising (2024-Present)
+History Major Advising (2025-Present)
+
 #### Select Undergraduate Senior Capstone Projects
 
 Madisyn Tyree, “A War on Women’s Bodies: The Lynchburg Colony for the Epileptic and Feebleminded” (2022)
 <li>Winner of Best Senior Paper Award, Effective Writing and Speaking Board, Randolph College, 2022-2023</li>
 
 ## GRANTS, FELLOWSHIPS, AND AWARDS
+Quillian International Study Abroad Seminar in Sri Lanka, Randolph College, 2025
+Ruth Borker Fund for Women’s Studies, Randolph College, 2025
+Campus Events Committee Grant, Randolph College, 2025
 Professional Development Grant, Randolph College, 2023
 Campus Events Committee Grant, Randolph College, 2023
 Samuel and Marion Merrill Graduate Student Travel Grant, Organization of American Historians, 2022
@@ -164,7 +175,7 @@ Richter Summer Fellowship, Davenport College of Yale University, 2013
 
 ## PUBLIC AND DIGITAL HUMANITIES
 
-Host, New Books in History, [New Books Network Podcast](https://newbooksnetwork.com/hosts/profile/9455e2c0-9744-4a4d-93a5-e474a00e7b2e), 2023-Present. 
+Host, New Books in History, [New Books Network Podcast](https://newbooksnetwork.com/hosts/profile/9455e2c0-9744-4a4d-93a5-e474a00e7b2e), 2023. 
 
 PhD Plus Fellow, [Jefferson School African American Heritage Center](https://jeffschoolheritagecenter.org/), Charlottesville, Virginia, 2020-2022.
 
@@ -184,6 +195,10 @@ Summer Intern, [Greenbrier Historical Society & North House Museum](https://www.
 
 ## CONFERENCE ACTIVITY
 
+“Transformative Travel: Howard Thurman’s Pilgrimage to Ceylon and the Making of the US Civil Rights Movement,” Movement Rhizome Interdisciplinary Academic Conference, University of Peradeniya, Kandy, Sri Lanka, May 26, 2025.
+
+“Forgotten Frequencies: Network Religious Radio and the Rise of Tri-Faith America,” Southeastern American Studies Association, New Orleans, LA, March 7, 2025.
+
 "The Greatest Story: Commercial Networks and Religion in the American Century," Business History Association, Providence, RI, March 16, 2024.
 
 “‘Fireside Favorites’: Ministry, Minstrelsy, and the Southernaires,” Organization of American Historians, Boston, April 2, 2022.
@@ -201,6 +216,8 @@ Summer Intern, [Greenbrier Historical Society & North House Museum](https://www.
 “‘Freedom of the Air’: NBC and its Protestant-Catholic-Jewish Committee, 1926-1939,” Graduate Student Conference on Democracy and Religion, Charlottesville, April 12, 2019.
 
 ## INVITED TALKS
+
+Lecturer, “Methodist History and the Struggle for Racial Justice,” Wesley Foundation at the College of William and Mary, Williamsburg, Virginia, February 16, 2025.
 
 Panelist, "[Archival Research with Past PHS Fellows](https://www.history.pcusa.org/blog/2022/11/past-phs-live-archival-research-past-phs-fellows)," Presybterian Historical Society, webinar, November 14, 2022. 
 
@@ -228,42 +245,44 @@ Invited Panelist for Memory & Identity Panel, Yale History Department’s First 
 
 Colloquium Speaker, Davenport College Mellon Forum for Senior Essays and Projects, January 21, 2014.
 
-## SERVICE TO THE PROFESSION
-
-Advisory Board Member, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2022-2023.
-
-Editor, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2019-2022.
-
-Associate Editor, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2019
-
 ## UNIVERSITY AND DEPARTMENTAL SERVICE
 
 ### Randolph College, Lynchburg, VA
 
-#### 
+#### Hosted Events
+Hosted Dr. Lindsay Parks Pieper for college-wide lecture, “Sport, Sex, and Surveillance: Gender Policing in Women's Sports,” April 24, 2025. 
 Hosted Dr. Eric Martin for public lecture, "Signs of Faith Against Fascism," Randolph College, Jan. 25, 2024.
 Co-hosted Lunch & Learn, "Teaching about Race and Racism," Randolph College, Feb 7, 2024.
 Hosted Lunch & Learn, "American Culture Program," Randolph College, Oct 31, 2023
 Hosted Lunch & Learn, "American Culture Program," Randolph College, Nov 15, 2022.
 
 #### Search Committees
+Ainsworth Visiting Scholar of American Culture, 2024-2025.
 Chief Diversity Officer and Director of Diversity, Identity, Culture, and Inclusion, 2023-2024.
 
 #### Standing Committees
-Teacher Education Advisory Committee, 2023-Present
-Education Preparatory Program Committee, 2023-Present.
-Thayer Lecture Committee, 2023-Present
+Teacher Education Advisory Committee, 2023-2025.
+Education Preparatory Program Committee, 2023-2025.
+Thayer Lecture Committee, 2023-Present; Chair 2024-2025.
+Multifaith Open Spiritual Atheist Inclusive Council, 2024 - Present.
 
 #### Ad-Hoc Committees
+Pluralism Project Cohort, 2025-Present.
+#RandolphVotes Initiative, Creator and Chair, 2024-Present.
 Community Advisory Committee, 2023
 On-line Framing Group, 2023
 
 #### Admissions
+Featured speaker, “American Revolution at 250,” Admitted Student Day, April 12, 2025.
+Featured speaker, “American Revolution at 250,” Admitted Student Day, March 22, 2025.
+History Day workshop facilitator for “Making History: The Civil Rights. Movement and the Craft of History,” December 11, 2024.
 Co-created "History Day." Created and facilitated workshop, "Archival Silences in the History of American Slavery." Randolph College, March 20, 2024.
 
-Interviewer, Let Wisdom Rise Scholarships, Randolph College, 2024.
+Interviewer, Let Wisdom Rise Scholarships, Randolph College, 2024, 2025. 
 
 #### Digital Service
+Administrator, #RandolphVotes Blog, 2024 – Present.
+Co-Account Manager, #RandolphVotes Instagram, 2024 – Present.
 Updated [History Department Website](https://www.randolphcollege.edu/history/), 2023.
 
 Account Manager, [American Culture Program Instagram](https://www.instagram.com/rc_amcp/), 2022 - 2023.
@@ -273,6 +292,14 @@ Administator, [American Culture Program Blog](https://rcamericancultureprogram.w
 #### Other
 Assisted Ainsworth Search Committee, 2023-2024.
 Team Member, Grant Application for Randolph College, Institute on Interfaith Excellence, 2023
+
+## SERVICE TO THE PROFESSION
+
+Advisory Board Member, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2022-2023.
+
+Editor, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2019-2022.
+
+Associate Editor, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2019
 
 ### University of Virginia, Charlottesville, VA
 
