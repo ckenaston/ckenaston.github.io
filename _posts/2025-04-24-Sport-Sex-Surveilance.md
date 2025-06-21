@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sport, Sex, and Surveillance: Gender Policing in Women's Sports
+title: Sport, Sex, and Surveillance
 ---
 
 **Who gets to play—and who decides?**
