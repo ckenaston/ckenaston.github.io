@@ -22,6 +22,16 @@ This is a special 8 credit course during Spring Session Four that gives Randolph
 As part of "Working for the Weekend," we examined how people in the past have shifted the balance between labor and leisure. We also considered how this struggle has continued into the present. Why did so many people quit their jobs during the pandemic? And what is behind the current unionization drive in industries ranging from Starbucks to Minor League Baseball? For our big trip, we traveled to Nashville and Memphis to learn about how music and labor activism have contributed to the long and ongoing struggle for racial and economic justice. To [riff on Langston Hughes](https://www.poetryfoundation.org/poems/47558/i-too), we reflected on how we, too, can sing a new America.
 
 
+## Service Projects
+### [#RandolphVotes](https://www.randolphcollege.edu/americanculture/)
+<img class="thumbnail" src="/Images/randolph-votes.jpg" alt="Two people stand smiling widely in a brightly lit hallway, both wearing matching white T-shirts that say “Randolph Votes” in bold black and yellow lettering. One person points to their shirt with their coat open to reveal the design. The hallway is decorated with framed photos and posters, and the atmosphere is cheerful and energetic.">
+In Fall 2024, I spearheaded and served as the de facto chair of **#RandolphVotes**, a nonpartisan campus-wide initiative to boost voter participation and foster civil discourse during the presidential election season. Our efforts helped Randolph College meet its obligation under section 487(a)(23) of the Higher Education Act to make a "good faith effort" to distribute voter registration forms to students.
+
+We promoted voter registration, hosted educational events, organized rides to the polls, and shared nonpartisan resources through [Instagram](https://www.instagram.com/randolphvotes?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) and [TikTok](https://www.tiktok.com/@randolph_votes?is_from_webapp=1&sender_device=pc). You can check out our [step-by-step voter registration guide](https://www.randolphcollege.edu/voting).
+
+In an [interview with Randolph College](https://www.randolphcollege.edu/news/2024/09/randolph-votes-initiative-to-provide-information-resources-to-campus-community/), I said: “Participating in the democratic process is a vital way to maintain Randolph’s mission to engage the world, live honorably, and experience life abundantly.”
+
+
 ## Public and Digital History Projects
 ### [New Books in History](https://newbooksnetwork.com/category/history-1/history)
 <img class="thumbnail" src="Images/NBN-History.jpg" alt="NB in History Logo. It says the word 'History' in white over a brown backdrop">
@@ -55,3 +65,5 @@ I served as the Editor of _EiH_ from 2019 to 2022. In this position, I have cons
 The University of Virginia President’s Commission on the University in the Age of Segregation (PCUAS) was founded in 2018 to “explore and report on UVA’s role in the period of racial segregation and that occurred in the 19th and 20th centuries.” As part of this work, PCUAS created a digital archive to share some of their findings.
 
 I worked as a Digital Archiving Assistant for PCUAS in the summer and fall of 2020\. In this capacity, I adapted the CSS and Javascript of an an [Omeka](https://omeka.org/) digital archive template to meet the needs of the Commission. My fellow digital archiving assistant and I had to think critically about how best to present problematic visual images from UVA’s past so that the images functioned as a truth-telling of the long history of racism and violence at UVA rather than as a tool of modern-day white supremacy. We primarily tried to do this through heavy editorialization and structuring the site in a way that leads users to engage with the PCUAS’s thematic introductions prior to engaging with the items.
+
+

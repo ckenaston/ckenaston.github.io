@@ -3,7 +3,7 @@ layout: post
 title: Sport, Sex, and Surveillance: Gender Policing in Women's Sports
 ---
 
-Who gets to play—and who decides? 
+**Who gets to play—and who decides?**
 
 These two questions are at the heart of ongoing debates about women’s athletics, from the Olympics all the way to college campuses like Randolph.
 
