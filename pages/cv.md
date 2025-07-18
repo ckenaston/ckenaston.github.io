@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv
 ---
 
-Last updated 06/04/2024
+Last updated 07/04/2025
 
 ## EDUCATION
 
@@ -39,6 +39,9 @@ Randolph College, Ainsworth Visiting Assistant Professor of American Culture (20
 
 “[From Rib to Robe: Women’s Ordination in The United Methodist Church](http://hdl.handle.net/10516/9746),” _Methodist History_ 53, no. 3 (April 2015): 162-172.
 
+### Articles Accepted for Publication
+“Coloring Sacred Sounds: Broadcasting Racial and Religious Outsiders in Radio’s Network Era,” _Religion and American Culture_ (accepted pending revisions).
+
 ### Peer-Reviewed Digital Projects
 
 [_Land and Legacy_](https://landandlegacy.scholarslab.org), with Janet S. Dunkelbarger, Natasha Roth-Rowland, Lauren Van Nest, and Chloe Downe Wells, Praxis Program, Scholars' Lab, University of Virginia Library, last modified July 31, 2020. [Reviewed by Claire A. Tratnyek](https://reviewsindh.pubpub.org/pub/land-and-legacy/), _Reviews in Digital Humanities_ 2, no. 5 (May 2021).
@@ -54,68 +57,54 @@ Randolph College, Ainsworth Visiting Assistant Professor of American Culture (20
 “[Reds, Rosaries, and Revolutionary Governments: Church-State Relations in Cuba and Nicaragua in the Aftermath of Revolution](https://historicalreview.yale.edu/sites/default/files/yhr_spring_2013_web.pdf),” _Yale Historical Review_ 2 (Spring 2013): 58-71.
 
 ### Under Review
-“Coloring Sacred Sounds: Broadcasting Racial and Religious Outsiders in Radio’s Network Era,” _Religion and American Culture_.
 “Religious Radio,” _The Palace of Thundering Gods: A Massively Collaborative Open History of Religion in the United States_ (Stanford University Press, forthcoming).
 
 ### Manuscripts in Preparation
 "Spirit of Power: Radio, Religion, and the Sound of the American Century"
 
-## TEACHING
+## CONFERENCE ACTIVITY
 
-### Randolph College, Lynchburg, VA
+“Transformative Travel: Howard Thurman’s Pilgrimage to Ceylon and the Making of the US Civil Rights Movement,” Movement Rhizome Interdisciplinary Academic Conference, University of Peradeniya, Kandy, Sri Lanka, May 26, 2025.
 
-#### Instructor of Record
+“Forgotten Frequencies: Network Religious Radio and the Rise of Tri-Faith America,” Southeastern American Studies Association, New Orleans, LA, March 7, 2025.
 
-A Life More Abundant (Fall 2024)
-History of Atlantic Capitalism (Fall 2023)
-American Culture Seminar (Spring 2024; Spring 2023)
-American Images (Spring 2024; Spring 2023)
-American Women’s History (Spring 2025; Spring 2023)
-African Americans and the Construction of America (Fall 2023; Fall 2022)
-US History from Colonial to the Present (Fall 2025; Spring 2024; Fall 2022)
-Senior Capstone: Research (Fall 2022)
-Senior Capstone: Writing (Spring 2025; Fall 2023; Fall 2022)
+"The Greatest Story: Commercial Networks and Religion in the American Century," Business History Association, Providence, RI, March 16, 2024.
 
-#### Professional Development
-American Historical Association Virginia Conference on Introductory History Courses (Spring 2025)
-Student Success Summit with Anthony Jack (Spring 2024)
-Teaching Workshop with Linda Nilson (Spring 2023).
-Student Success Summit with Tia McNair (Spring 2023).
+“‘Fireside Favorites’: Ministry, Minstrelsy, and the Southernaires,” Organization of American Historians, Boston, April 2, 2022.
 
-### University of Virginia, Charlottesville, VA
+“‘Education and Religion vs. Commercial Radio’: Rethinking Religion and the 1934 Communications Act,” International Society of Media, Religion and Culture Biennial Conference, Sigtuna, Sweden, August 4, 2020. _Unable to deliver; conference cancelled due to COVID-19 outbreak._
 
-#### Instructor of Record
+“Faith Networks: Religion, Radio, and the American System of Broadcasting in the 1930s,” Popular Culture Association National Conference, Philadelphia, April 15, 2020. _Unable to deliver; conference cancelled due to COVID-19 outbreak._
 
-American History Since 1865 (Summer 2021-online)
+“Definitely a Religious Ad: Daytime Radio and the Redemption of Communications Capitalism,” U.S. Religious Studies and New Histories of Capitalism Conference, Charlottesville, January 31, 2020.
 
-#### Professional Development
+“The Guiding Light of Mass Consumption: Religion and Daytime Radio, 1936-1945,” American Society of Church History Annual Meeting, New York, January 5, 2020.
 
-c3Design, Center for Teaching and Learning, Summer 2020
-Tomorrow’s Professor Today, Center for Teaching and Learning, 2019-2021
+“Sacred Music as Resistance: Religion and Network Radio in the 1930s,” American Studies Association Annual Meeting, Honolulu, November 7, 2019.
 
-### Central Methodist University, Fayette, MO
+“‘Freedom of the Air’: NBC and its Protestant-Catholic-Jewish Committee, 1926-1939,” Graduate Student Conference on Democracy and Religion, Charlottesville, April 12, 2019.
 
-#### Co-Instructor
+## INVITED TALKS
 
-History of American Methodism (Spring 2015)
+Lecturer, “Methodist History and the Struggle for Racial Justice,” Wesley Foundation at the College of William and Mary, Williamsburg, Virginia, February 16, 2025.
 
-## ADVISING
+Panelist, "[Archival Research with Past PHS Fellows](https://www.history.pcusa.org/blog/2022/11/past-phs-live-archival-research-past-phs-fellows)," Presybterian Historical Society, webinar, November 14, 2022. 
 
-### Randolph College, Lynchburg, VA
+Lecturer, “Listening to the Archive: Sound, Metadata, and Digital Humanities,” Washington & Lee University, Lexington, VA, March 19, 2020. _Unable to deliver, talk cancelled due to COVID-19 outbreak._
 
-First-Year Advising (2024-Present)
-History Major Advising (2025-Present)
-
-#### Select Undergraduate Senior Capstone Projects
-
-Madisyn Tyree, “A War on Women’s Bodies: The Lynchburg Colony for the Epileptic and Feebleminded” (2022), Winner of Best Senior Paper Award, Effective Writing and Speaking Board, Randolph College, 2022-2023
+Lecturer, “‘You know the radio is noncontroversial’: Jews, Broadcasting, and the Public Interest,” American Jewish Archive, Cincinnati, Ohio, March 12, 2020.
 
 ## GRANTS, FELLOWSHIPS, AND AWARDS
 Quillian International Study Abroad Seminar in Sri Lanka, Randolph College, 2025
+
 Ruth Borker Fund for Women’s Studies, Randolph College, 2025
+
 Campus Events Committee Grant, Randolph College, 2025
+
 Professional Development Grant, Randolph College, 2023
+
 Campus Events Committee Grant, Randolph College, 2023
+
 Samuel and Marion Merrill Graduate Student Travel Grant, Organization of American Historians, 2022
 
 PhD Plus Fellowship, Office of Graduate and Postdoctoral Affairs, University of Virginia, 2021
@@ -170,6 +159,59 @@ Barbara Wertheimer Prize, New York Labor History Association, 2014
 
 Richter Summer Fellowship, Davenport College of Yale University, 2013
 
+## TEACHING
+
+### Randolph College, Lynchburg, VA
+
+#### Instructor of Record
+
+History of Atlantic Capitalism (Fall 2023)
+American Culture Seminar (Spring 2024; Spring 2023)
+American Images (Spring 2024; Spring 2023)
+American Women’s History (Spring 2025; Spring 2023)
+African Americans and the Construction of America (Fall 2023; Fall 2022)
+US History from Colonial to the Present (Fall 2025; Spring 2024; Fall 2022)
+Queer American History (Fall 2025)
+Senior Capstone: Research (Fall 2022)
+Senior Capstone: Writing (Spring 2025; Fall 2023; Fall 2022)
+A Life More Abundant (Fall 2024)
+
+#### Professional Development
+American Historical Association Virginia Conference on Introductory History Courses (Spring 2025)
+Student Success Summit with Anthony Jack (Spring 2024)
+Teaching Workshop with Linda Nilson (Spring 2023).
+Student Success Summit with Tia McNair (Spring 2023).
+
+### University of Virginia, Charlottesville, VA
+
+#### Instructor of Record
+
+American History Since 1865 (Summer 2021-online)
+
+#### Professional Development
+
+c3Design, Center for Teaching and Learning, Summer 2020
+Tomorrow’s Professor Today, Center for Teaching and Learning, 2019-2021
+
+### Central Methodist University, Fayette, MO
+
+#### Co-Instructor
+
+History of American Methodism (Spring 2015)
+
+## ADVISING
+
+### Randolph College, Lynchburg, VA
+
+First-Year Advising (2024-Present)
+History Major Advising (2025-Present)
+Advisor for Undergraduate Senior Capstones (2022-Present)
+
+#### Best Senior Paper Award, Randolph College
+Madisyn Tyree, “A War on Women’s Bodies: The Lynchburg Colony for the Epileptic and Feebleminded” (2022) 
+Tristan Gregory: “We Might Accept Him: John Brown, His Raiders, and African American Memory” (2025)
+
+
 ## PUBLIC AND DIGITAL HUMANITIES
 
 Host, New Books in History, [New Books Network Podcast](https://newbooksnetwork.com/hosts/profile/9455e2c0-9744-4a4d-93a5-e474a00e7b2e), 2023. 
@@ -190,37 +232,6 @@ Creator and Host, [Faith and Race Podcast and Curriculum - Season 1](https://www
 
 Summer Intern, [Greenbrier Historical Society & North House Museum](https://www.greenbrierhistorical.org/), Lewisburg, West Virginia.
 
-## CONFERENCE ACTIVITY
-
-“Transformative Travel: Howard Thurman’s Pilgrimage to Ceylon and the Making of the US Civil Rights Movement,” Movement Rhizome Interdisciplinary Academic Conference, University of Peradeniya, Kandy, Sri Lanka, May 26, 2025.
-
-“Forgotten Frequencies: Network Religious Radio and the Rise of Tri-Faith America,” Southeastern American Studies Association, New Orleans, LA, March 7, 2025.
-
-"The Greatest Story: Commercial Networks and Religion in the American Century," Business History Association, Providence, RI, March 16, 2024.
-
-“‘Fireside Favorites’: Ministry, Minstrelsy, and the Southernaires,” Organization of American Historians, Boston, April 2, 2022.
-
-“‘Education and Religion vs. Commercial Radio’: Rethinking Religion and the 1934 Communications Act,” International Society of Media, Religion and Culture Biennial Conference, Sigtuna, Sweden, August 4, 2020. _Unable to deliver; conference cancelled due to COVID-19 outbreak._
-
-“Faith Networks: Religion, Radio, and the American System of Broadcasting in the 1930s,” Popular Culture Association National Conference, Philadelphia, April 15, 2020. _Unable to deliver; conference cancelled due to COVID-19 outbreak._
-
-“Definitely a Religious Ad: Daytime Radio and the Redemption of Communications Capitalism,” U.S. Religious Studies and New Histories of Capitalism Conference, Charlottesville, January 31, 2020.
-
-“The Guiding Light of Mass Consumption: Religion and Daytime Radio, 1936-1945,” American Society of Church History Annual Meeting, New York, January 5, 2020.
-
-“Sacred Music as Resistance: Religion and Network Radio in the 1930s,” American Studies Association Annual Meeting, Honolulu, November 7, 2019.
-
-“‘Freedom of the Air’: NBC and its Protestant-Catholic-Jewish Committee, 1926-1939,” Graduate Student Conference on Democracy and Religion, Charlottesville, April 12, 2019.
-
-## INVITED TALKS
-
-Lecturer, “Methodist History and the Struggle for Racial Justice,” Wesley Foundation at the College of William and Mary, Williamsburg, Virginia, February 16, 2025.
-
-Panelist, "[Archival Research with Past PHS Fellows](https://www.history.pcusa.org/blog/2022/11/past-phs-live-archival-research-past-phs-fellows)," Presybterian Historical Society, webinar, November 14, 2022. 
-
-Lecturer, “Listening to the Archive: Sound, Metadata, and Digital Humanities,” Washington & Lee University, Lexington, VA, March 19, 2020. _Unable to deliver, talk cancelled due to COVID-19 outbreak._
-
-Lecturer, “‘You know the radio is noncontroversial’: Jews, Broadcasting, and the Public Interest,” American Jewish Archive, Cincinnati, Ohio, March 12, 2020.
 
 ## CAMPUS PRESENTATIONS
 
@@ -247,39 +258,55 @@ Colloquium Speaker, Davenport College Mellon Forum for Senior Essays and Project
 ### Randolph College, Lynchburg, VA
 
 #### Hosted Events
-Hosted Dr. Lindsay Parks Pieper for college-wide lecture, “Sport, Sex, and Surveillance: Gender Policing in Women's Sports,” April 24, 2025. 
-Hosted Dr. Eric Martin for public lecture, "Signs of Faith Against Fascism," Randolph College, Jan. 25, 2024.
-Co-hosted Lunch & Learn, "Teaching about Race and Racism," Randolph College, Feb 7, 2024.
-Hosted Lunch & Learn, "American Culture Program," Randolph College, Oct 31, 2023
-Hosted Lunch & Learn, "American Culture Program," Randolph College, Nov 15, 2022.
+Dr. Lindsay Parks Pieper for college-wide lecture, “Sport, Sex, and Surveillance: Gender Policing in Women's Sports,” April 24, 2025. 
+
+Dr. Eric Martin for public lecture, "Signs of Faith Against Fascism," Randolph College, Jan. 25, 2024.
+
+Lunch & Learn, "Teaching about Race and Racism," Randolph College, Feb 7, 2024.
+
+Lunch & Learn, "American Culture Program," Randolph College, Oct 31, 2023
+
+Lunch & Learn, "American Culture Program," Randolph College, Nov 15, 2022.
 
 #### Search Committees
 Ainsworth Visiting Scholar of American Culture, 2024-2025.
+
 Chief Diversity Officer and Director of Diversity, Identity, Culture, and Inclusion, 2023-2024.
 
 #### Standing Committees
 Teacher Education Advisory Committee, 2023-2025.
+
 Education Preparatory Program Committee, 2023-2025.
-Thayer Lecture Committee, 2023-Present; Chair 2024-2025.
+
+Thayer Lecture Committee, 2023-Present; Chair 2024-Present.
+
 Multifaith Open Spiritual Atheist Inclusive Council, 2024 - Present.
 
 #### Ad-Hoc Committees
 Pluralism Project Cohort, 2025-Present.
+
 #RandolphVotes Initiative, Creator and Chair, 2024-Present.
+
 Community Advisory Committee, 2023
+
 On-line Framing Group, 2023
 
 #### Admissions
 Featured speaker, “American Revolution at 250,” Admitted Student Day, April 12, 2025.
+
 Featured speaker, “American Revolution at 250,” Admitted Student Day, March 22, 2025.
+
 History Day workshop facilitator for “Making History: The Civil Rights. Movement and the Craft of History,” December 11, 2024.
+
 Co-created "History Day." Created and facilitated workshop, "Archival Silences in the History of American Slavery." Randolph College, March 20, 2024.
 
 Interviewer, Let Wisdom Rise Scholarships, Randolph College, 2024, 2025. 
 
 #### Digital Service
 Administrator, #RandolphVotes Blog, 2024 – Present.
+
 Co-Account Manager, #RandolphVotes Instagram, 2024 – Present.
+
 Updated [History Department Website](https://www.randolphcollege.edu/history/), 2023.
 
 Account Manager, [American Culture Program Instagram](https://www.instagram.com/rc_amcp/), 2022 - 2023.
@@ -288,6 +315,7 @@ Administator, [American Culture Program Blog](https://rcamericancultureprogram.w
 
 #### Other
 Assisted Ainsworth Search Committee, 2023-2024.
+
 Team Member, Grant Application for Randolph College, Institute on Interfaith Excellence, 2023
 
 ## SERVICE TO THE PROFESSION
@@ -330,7 +358,5 @@ American Society of Church History (ASCH)
 American Historical Association (AHA)
 
 American Studies Association (ASA)
-
-National Council on Public History (NCPH)
 
 Business History Association (BHA)
