@@ -166,20 +166,32 @@ Richter Summer Fellowship, Davenport College of Yale University, 2013
 #### Instructor of Record
 
 History of Atlantic Capitalism (Fall 2023)
+
 American Culture Seminar (Spring 2024; Spring 2023)
+
 American Images (Spring 2024; Spring 2023)
+
 American Women’s History (Spring 2025; Spring 2023)
+
 African Americans and the Construction of America (Fall 2023; Fall 2022)
+
 US History from Colonial to the Present (Fall 2025; Spring 2024; Fall 2022)
+
 Queer American History (Fall 2025)
+
 Senior Capstone: Research (Fall 2022)
+
 Senior Capstone: Writing (Spring 2025; Fall 2023; Fall 2022)
+
 A Life More Abundant (Fall 2024)
 
 #### Professional Development
 American Historical Association Virginia Conference on Introductory History Courses (Spring 2025)
+
 Student Success Summit with Anthony Jack (Spring 2024)
+
 Teaching Workshop with Linda Nilson (Spring 2023).
+
 Student Success Summit with Tia McNair (Spring 2023).
 
 ### University of Virginia, Charlottesville, VA
@@ -191,6 +203,7 @@ American History Since 1865 (Summer 2021-online)
 #### Professional Development
 
 c3Design, Center for Teaching and Learning, Summer 2020
+
 Tomorrow’s Professor Today, Center for Teaching and Learning, 2019-2021
 
 ### Central Methodist University, Fayette, MO
@@ -204,11 +217,14 @@ History of American Methodism (Spring 2015)
 ### Randolph College, Lynchburg, VA
 
 First-Year Advising (2024-Present)
+
 History Major Advising (2025-Present)
+
 Advisor for Undergraduate Senior Capstones (2022-Present)
 
 #### Best Senior Paper Award, Randolph College
 Madisyn Tyree, “A War on Women’s Bodies: The Lynchburg Colony for the Epileptic and Feebleminded” (2022) 
+
 Tristan Gregory: “We Might Accept Him: John Brown, His Raiders, and African American Memory” (2025)
 
 
@@ -318,14 +334,6 @@ Assisted Ainsworth Search Committee, 2023-2024.
 
 Team Member, Grant Application for Randolph College, Institute on Interfaith Excellence, 2023
 
-## SERVICE TO THE PROFESSION
-
-Advisory Board Member, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2022-2023.
-
-Editor, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2019-2022.
-
-Associate Editor, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2019
-
 ### University of Virginia, Charlottesville, VA
 
 Facilitator, Teaching as a Graduate Student, Center for Teaching Excellence, Fall 2020
@@ -334,9 +342,20 @@ Participant, Graduate Diversity and Inclusion Working Group, 2019-2021
 
 Cohort Representative, Graduate History Student Association, University of Virginia, 2020-2021
 
+## SERVICE TO THE PROFESSION
+
+Advisory Board Member, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2022-2023.
+
+Editor, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2019-2022.
+
+Associate Editor, [_Essays in History_](https://essaysinhistoryjournal.com/), an open access journal for emerging historians, University of Virginia, 2019
+
+
 ## COMMUNITY INVOLVEMENT
 Co-Host and IT Director, Virginia American Association of University Professors, April 27, 2024.
+
 Consultant, Local Elections Committee of United Campus Workers of Virginia, Fall 2023.
+
 Interviewee for National History Day Project, "Christopher Columbus," Jefferson Forest High School, January 13, 2023.
 
 Interviewee for National History Day Project, Jefferson Forest High School, Spring 2023. Topics: Jazz Age (2x), Greensboro Sit-In. 
