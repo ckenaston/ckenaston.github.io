@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Paul Revere's Ride
-tags:
-  - admissions
-  - revolution
-  - teaching
+tags: admissions, revolution, teaching]
+
 ---
 
 Our Admissions Office is doing a spectacular job. They're a big reason why Randolph College is one of the only liberal arts colleges that is growing!

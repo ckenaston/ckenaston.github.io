@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Nominated for 2026 Virginia Outstanding Faculty Award (Rising Star)
-tags:
-  - admissions
-  - randolphcollege
+tags: [awards, Randolph]
+
 ---
 
 This fall I was nominated in the Rising Star category for the 2026 [State Council of higher Education for Virginia's Outstanding Faculty Awards](https://www.schev.edu/institutions/outstanding-faculty-awards)! As part of the nomination process, I had to solicit letters from supervisors, colleagues, students, and community leaders. Several letter-writers graciously shared their letter with me. What a treat! Regardless of whether I'm selected or not, I appreciate having a stash of letters I can turn to next time I'm feeling down!
