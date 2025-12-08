@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Meet Dr. Kenaston!
+tags: [scholarship, graduation, school]
 ---
 
 <img class="headshot" src="/Images/defense-parents2.jpg" alt="Photograph of Connor S. Kenaston, a scholar of U.S. history, with his parents, Joe and Judi Kenaston, after his dissertation defense. Photograph by Maria Niechwiadowicz.">

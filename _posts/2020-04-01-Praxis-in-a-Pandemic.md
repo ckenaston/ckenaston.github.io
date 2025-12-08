@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Praxis in a Pandemic
+tags: [digital history, scholarship, mental health]
 ---
 
 Crossposted to the [Scholars’ Lab blog](https://scholarslab.lib.virginia.edu/blog/praxis-in-a-pandemic/)

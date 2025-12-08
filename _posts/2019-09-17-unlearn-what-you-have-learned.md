@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Unlearn What You Have Learned
+tags: [digital history, mental health]
 ---
 
 Crossposted to the [Scholars’ Lab blog](https://scholarslab.lib.virginia.edu/blog/unlearn-what-you-have-learned/)

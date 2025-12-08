@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Short Feature in Livability Magazine
+tags: [community, publicity]
 ---
 
-We moved to Lynchburg last summer and have been working hard to find friends and build community ever since. It's never easy adjusting to a new place, but we're doing our best! This fall, _Livability_ magazine did <a href="https://livability.com/va/lynchburg/love-where-you-live/new-to-lynchburg-va-find-out-how-to-get-connected/">a short feature</a> on Maria and me and how we've adjusted to our new town. 
+We moved to Lynchburg last summer and have been working hard to find friends and build community ever since. It's never easy adjusting to a new place, but we're doing our best! This fall, _Livability_ magazine did <a href="https://livability.com/va/lynchburg/love-where-you-live/new-to-lynchburg-va-find-out-how-to-get-connected/">a short feature</a> on Maria and me and how we've adjusted to our new town.
 
 
 <a href="https://livability.com/va/lynchburg/love-where-you-live/new-to-lynchburg-va-find-out-how-to-get-connected/">

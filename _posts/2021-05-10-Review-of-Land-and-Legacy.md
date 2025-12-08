@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Review of Land and Legacy
+tags: [publications, scholarship, digital history]
 ---
 
 [_Land and Legacy_](https://landandlegacy.scholarslab.org/), a digital project I co-created, was recently reviewed in the May edition of [Reviews in Digital Humanities](https://reviewsindh.pubpub.org/pub/land-and-legacy/release/3).

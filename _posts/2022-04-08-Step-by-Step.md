@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Step by Step
+tags: [scholarship, publications, religious history]
+
 ---
 
 My article, "[Step by Step: American Interracialism and the Origins of Talk-First Activism](https://doi.org/10.1017/mah.2022.2)" has just been published in _Modern American History_!

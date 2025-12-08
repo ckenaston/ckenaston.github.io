@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Researching Sri Lankan and US History
+tags: [scholarship, awards, Sri Lanka, Conferences]
+
 ---
 
 This year, I was honored to be selected for the Quillian International Scholar Study Abroad Seminar in Sri Lanka.
@@ -17,9 +19,9 @@ That discovery led me to wonder: Had Sri Lanka played a role in American religio
 
 I started by thinking about the 1932 Hocking Report, titled _Re-Thinking Missions: A Laymen's Inquiry After One Hundred Years_. I had first encountered it in David Hollinger’s [_Protestants Abroad_](https://press.princeton.edu/books/hardcover/9780691158433/protestants-abroad?srsltid=AfmBOoqMZHrb-KVMCJ4ig-CLvMgIY7xjAiws1AfmzdSHOs7IwdkuJ3Di), which highlights its pivotal role in reshaping Protestant missions and American Protestantism more broadly.
 
-As a former Global Mission Fellow of the United Methodist Church—here’s my [blog](https://ckenaston.wordpress.com/) and [podcast](https://www.moumethodist.org/faithandracepodcast) from those years—Hollinger's arguments made total sense to me. It helped explain why I had such as radically different understanding of "mission" and a "missionary" than did evangelical Christians. In part, it's because my tradition had been so influenced by the Hocking Report. 
+As a former Global Mission Fellow of the United Methodist Church—here’s my [blog](https://ckenaston.wordpress.com/) and [podcast](https://www.moumethodist.org/faithandracepodcast) from those years—Hollinger's arguments made total sense to me. It helped explain why I had such as radically different understanding of "mission" and a "missionary" than did evangelical Christians. In part, it's because my tradition had been so influenced by the Hocking Report.
 
-I discovered that the Laymen's committee did indeed travel to Ceylon as part of their research. However, I wasn’t able to find any digitized sources detailing their time there. Ah the joys and challenges of doing social history... 
+I discovered that the Laymen's committee did indeed travel to Ceylon as part of their research. However, I wasn’t able to find any digitized sources detailing their time there. Ah the joys and challenges of doing social history...
 
 A bit more internet digging led me to Howard Thurman as another possible link between American religious history and Sri Lanka.
 
