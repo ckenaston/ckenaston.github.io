@@ -12,4 +12,5 @@ One of the greatest treats as a teacher is when students decide they want to do 
 
 Huge thanks to Dr. Rosenthal and to Kathleen, David, and Gail who helped make this course so special!
 
+<a href = "https://gsrosenthal.com/">
 <img class="headshot" src="/Images/Rosenthal-poster.jpg" alt="A poster advertising a talk by Dr G. Samantha Rosenthal about her book Living Queer history. Background is a pride flag with an image of Virginia. Text also includes information about Rosenthal and details about the talk."> </a>

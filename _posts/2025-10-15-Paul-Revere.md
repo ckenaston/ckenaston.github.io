@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paul Revere, Admissions, and the US's Origin Story
+title: Paul Revere's Ride
 tags: [admissions, revolution, teaching]
 ---
 
@@ -15,13 +15,17 @@ I tell them they're going to hear a lot about the Revolution over the next year 
 I then pivot back to Longfellow's poem. Like most people, I learned the poem in our Revolutionary War unit. Yet, [the poem was published on the even of the Civil War](https://theamericanscholar.org/how-longfellow-woke-the-dead/), as Southerners had begun to secede from the union in order to preserve the institution of slavery, and Longfellow was an ardent abolitionist. In other words, his poem wasn’t just about Paul Revere; it was a call to arms for the union:
 
 _A cry of defiance and not of fear…
+
 In the hour of darkness and peril and need,
+
 The people will waken and listen to hear
+
 The hurrying hoof-beats of that steed,
+
 And the midnight message of Paul Revere._
 
 The story of the Revolution isn’t just about the past, I tell them. It has ramifications for us in this moment. I tell them that unlike Henry Wadsworth Longfellow (who played fast and loose with some facts) historians use evidence to tell us what happened. Cue transition to analyzing Revolutionary-era political cartoons and coming up with the story they elicit!
 
 
 <a href = "https://catalog.archives.gov/id/535721">
-<img class="headshot" src="/Images/sermon2.jpg" alt="The illustration depicts Paul Revere's Midnight Ride during the Revolutionary War. Revere is on a horse that is running. He is looking back toward the clock tower of the Old North Church."> </a>
+<img class="headshot" src="/Images/revere.jpg" alt="The illustration depicts Paul Revere's Midnight Ride during the Revolutionary War. Revere is on a horse that is running. He is looking back toward the clock tower of the Old North Church."> </a>

@@ -8,5 +8,5 @@ This fall I was nominated in the Rising Star category for the 2026 [State Counci
 
 A few months earlier, the image below appeared on the college's homepage. I was hoping my 15 minutes of fame would be a little cooler, but you take what you can get, I guess!
 
-<a href = "https://catalog.archives.gov/id/535721">
+<a href = "https://www.randolphcollege.edu/">
 <img class="headshot" src="/Images/reimagined.jpg" alt="This is a screenshot of the Randolph College website homepage. It is a photograph of Dr Kenaston in a dress shirt, black sweater vest, and blue pants talking to three students. Text overlay states This is College Reimagined."> </a>
