@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nominated for 2026 Virginia Outstanding Faculty Award (Rising Star)
-tags: [awards, Randolph]
+tags: [awards, Randolph, teaching, scholarship, service]
 
 ---
 

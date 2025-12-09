@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paul Revere's Ride
-tags: admissions, revolution, teaching]
+tags: [admissions, revolution, teaching]
 
 ---
 

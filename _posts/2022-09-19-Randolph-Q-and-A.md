@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Randolph College's Q&A with New Faculty
-tags: [Randolph, jobs, publicity]
+tags: [randolph, jobs, publicity]
 ---
 
 
