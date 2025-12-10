@@ -17,7 +17,7 @@ The lecture went off really well. Though collaboratively creating anything can b
 
 One story that I discovered while doing the research is that Becky attended a Student Christian Movement in the fall of 1960, right before the start of her senior year. She met Black activists who had pioneered the sit-in movement such as Rev. James Lawson, the young minister who taught John Lewis and others how to get in "good trouble." “The imperative of the Denver conference was unambiguous," Becky recalled in her memoir. "If you, Becky Owen, are serious about Christianity and injustice, get the hell back to Lynchburg and do something.” Upon returning to R-MWC, Becky reached out to Rev. Virgil Wood, pastor of Diamond Hill Baptist, and with the help of the YWCA they began organizing discussion groups that brought together college students and Black community leaders. A couple months later, six college students who'd been involved in the discussion groups headed to Patterson's Drug Store in downtown Lynchburg...
 
-If you want to hear the rest of the story, I gave a version of this talk [the following Sunday at First Christian Church](tag/2025/10/12/Sermon).
+If you want to hear the rest of the story, I gave a version of this talk [the following Sunday at First Christian Church](/2025/10/12/Sermon).
 
 <a href = "https://catalog.archives.gov/id/535721">
 <img class="headshot" src="/Images/Owen.jpg" alt="Yearbook photograph of Rebecca Owen. Text says she's from Saluda, Virignia, and was an English major"> </a>
