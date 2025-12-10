@@ -5,7 +5,7 @@ permalink: /cv
 nav_order: 4
 ---
 
-Last updated 07/04/2025
+Last updated 12/10/2025
 
 ## EDUCATION
 
@@ -58,10 +58,11 @@ Randolph College, Ainsworth Visiting Assistant Professor of American Culture (20
 “[Reds, Rosaries, and Revolutionary Governments: Church-State Relations in Cuba and Nicaragua in the Aftermath of Revolution](https://historicalreview.yale.edu/sites/default/files/yhr_spring_2013_web.pdf),” _Yale Historical Review_ 2 (Spring 2013): 58-71.
 
 ### Under Review
+_Spirit of Power: Radio, Religion, and the Sound of the American Century_ (New York University Press)
+
 “Religious Radio,” _The Palace of Thundering Gods: A Massively Collaborative Open History of Religion in the United States_ (Stanford University Press, forthcoming).
 
-### Manuscripts in Preparation
-"Spirit of Power: Radio, Religion, and the Sound of the American Century"
+
 
 ## CONFERENCE ACTIVITY
 
@@ -87,15 +88,23 @@ Randolph College, Ainsworth Visiting Assistant Professor of American Culture (20
 
 ## INVITED TALKS
 
+Speaker, "[Telling Love Stories](https://www.youtube.com/live/7KxWkjne09Y?si=LysRckw4DKUs_oqs&t=1597)," First Christian Church (DOC), Lynchburg, Virginia, October 5, 2025.
+
 Lecturer, “Methodist History and the Struggle for Racial Justice,” Wesley Foundation at the College of William and Mary, Williamsburg, Virginia, February 16, 2025.
 
 Panelist, "[Archival Research with Past PHS Fellows](https://www.history.pcusa.org/blog/2022/11/past-phs-live-archival-research-past-phs-fellows)," Presybterian Historical Society, webinar, November 14, 2022.
+
+Co-Presenter, [Lessons from Labor History at UVA](https://www.youtube.com/watch?v=xFRH-PFtXnQ), United Campus Workers of Virginia, September 7, 2020.
 
 Lecturer, “Listening to the Archive: Sound, Metadata, and Digital Humanities,” Washington & Lee University, Lexington, VA, March 19, 2020. _Unable to deliver, talk cancelled due to COVID-19 outbreak._
 
 Lecturer, “‘You know the radio is noncontroversial’: Jews, Broadcasting, and the Public Interest,” American Jewish Archive, Cincinnati, Ohio, March 12, 2020.
 
+Invited Panelist and Workshop Leader, A Faithful Response to Racial Injustice Conference, Global Ministries of the United Methodist Church, April 17-18, 2017.
+
 ## GRANTS, FELLOWSHIPS, AND AWARDS
+Randolph College Nominee for Outstanding Faculty Rising Star Award, Virginia State Council of Higher Education for Virginia, 2025
+
 Quillian International Study Abroad Seminar in Sri Lanka, Randolph College, 2025
 
 Ruth Borker Fund for Women’s Studies, Randolph College, 2025
@@ -174,19 +183,23 @@ American Images (Spring 2024; Spring 2023)
 
 American Women’s History (Spring 2025; Spring 2023)
 
-African Americans and the Construction of America (Fall 2023; Fall 2022)
+African Americans and the Construction of America (Spring 2026; Fall 2023; Fall 2022)
 
 US History from Colonial to the Present (Fall 2025; Spring 2024; Fall 2022)
 
 Queer American History (Fall 2025)
 
-Senior Capstone: Research (Fall 2022)
+Senior Capstone: Research (Fall 2025; Fall 2022)
 
-Senior Capstone: Writing (Spring 2025; Fall 2023; Fall 2022)
+Senior Capstone: Writing (Spring 2026; Spring 2025; Fall 2023; Fall 2022)
 
 A Life More Abundant (Fall 2024)
 
+Age of Revolution (Spring 2026)
+
 #### Professional Development
+Workshop on Transfer Students (Fall 2025)
+
 American Historical Association Virginia Conference on Introductory History Courses (Spring 2025)
 
 Student Success Summit with Anthony Jack (Spring 2024)
@@ -252,6 +265,10 @@ Summer Intern, [Greenbrier Historical Society & North House Museum](https://www.
 
 ## CAMPUS PRESENTATIONS
 
+Guest Lecturer, “Transformative Travel: Howard Thurman’s Pilgrimage to Ceylon and the Making of the US Civil Rights Movement,” On the Shoulders of Giants, Comparative Philosophy Department, Randolph College, December 5, 2025.
+
+Guest Co-Lecturer with Dr. Amy Cohen, “Right and Wrong,” Life More Abundant, First Year Experience Program, Randolph College, September 29, 2025.
+
 Invited Respondent, Chapters 2-3 of Faculty Member’s Book Manuscript, Department of Religious Studies, University of Virginia, October 8, 2021.
 
 “Expanding Mainwave Religion: Race, Music, and Citizenship in 1930s Network Radio,” Virginia Colloquium in American Religion, March 24, 2021.
@@ -275,6 +292,8 @@ Colloquium Speaker, Davenport College Mellon Forum for Senior Essays and Project
 ### Randolph College, Lynchburg, VA
 
 #### Hosted Events
+Dr. Samantha Rosenthal for college-wide lecture, “Living Queer History: Remembrance and Belonging in a Southern City” with Dr. Samantha Rosenthal,” Randolph College, September 29, 2025.
+
 Dr. Lindsay Parks Pieper for college-wide lecture, “Sport, Sex, and Surveillance: Gender Policing in Women's Sports,” April 24, 2025.
 
 Dr. Eric Martin for public lecture, "Signs of Faith Against Fascism," Randolph College, Jan. 25, 2024.
@@ -291,24 +310,28 @@ Ainsworth Visiting Scholar of American Culture, 2024-2025.
 Chief Diversity Officer and Director of Diversity, Identity, Culture, and Inclusion, 2023-2024.
 
 #### Standing Committees
-Teacher Education Advisory Committee, 2023-2025.
-
-Education Preparatory Program Committee, 2023-2025.
 
 Thayer Lecture Committee, 2023-Present; Chair 2024-Present.
 
 Multifaith Open Spiritual Atheist Inclusive Council, 2024 - Present.
 
-#### Ad-Hoc Committees
-Pluralism Project Cohort, 2025-Present.
+Education Preparation Program Committee, 2023-2025.
 
-#RandolphVotes Initiative, Creator and Chair, 2024-Present.
+#### Ad-Hoc Committees
+
+RandolphVotes Initiative, Creator and Chair, 2024-Present.
+
+Pluralism Project Cohort, 2025-Present.
 
 Community Advisory Committee, 2023
 
 On-line Framing Group, 2023
 
 #### Admissions
+Featured speaker, “American Revolution at 250,” Scholarship Day, November 5, 2025.
+
+Featured speaker, “American Revolution at 250,” Amherst County High School Campus Visit, November 7, 2025.
+
 Featured speaker, “American Revolution at 250,” Admitted Student Day, April 12, 2025.
 
 Featured speaker, “American Revolution at 250,” Admitted Student Day, March 22, 2025.
@@ -320,6 +343,8 @@ Co-created "History Day." Created and facilitated workshop, "Archival Silences i
 Interviewer, Let Wisdom Rise Scholarships, Randolph College, 2024, 2025.
 
 #### Digital Service
+Creator of Transfer Guide: BA in History at Randolph College (2025)
+
 Administrator, #RandolphVotes Blog, 2024 – Present.
 
 Co-Account Manager, #RandolphVotes Instagram, 2024 – Present.
@@ -365,9 +390,6 @@ Inaugural Chair of Local Elections Committee, Local 2265 of Communications Worke
 
 Joint-Steering Committtee Member, Local 2265 of Communications Workers of America, 2021-2022.
 
-Co-Presenter, [Lessons from Labor History at UVA](https://www.youtube.com/watch?v=xFRH-PFtXnQ), United Campus Workers of Virginia, September 7, 2020.
-
-Invited Panelist and Workshop Leader, A Faithful Response to Racial Injustice Conference, Global Ministries of the United Methodist Church, April 17-18, 2017.
 
 ## PROFESSIONAL AFFILIATIONS
 
