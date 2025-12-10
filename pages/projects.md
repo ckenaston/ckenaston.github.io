@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects
+nav_order: 2
 ---
 
 ## Research Projects
@@ -65,5 +66,3 @@ I served as the Editor of _EiH_ from 2019 to 2022. In this position, I have cons
 The University of Virginia President’s Commission on the University in the Age of Segregation (PCUAS) was founded in 2018 to “explore and report on UVA’s role in the period of racial segregation and that occurred in the 19th and 20th centuries.” As part of this work, PCUAS created a digital archive to share some of their findings.
 
 I worked as a Digital Archiving Assistant for PCUAS in the summer and fall of 2020\. In this capacity, I adapted the CSS and Javascript of an an [Omeka](https://omeka.org/) digital archive template to meet the needs of the Commission. My fellow digital archiving assistant and I had to think critically about how best to present problematic visual images from UVA’s past so that the images functioned as a truth-telling of the long history of racism and violence at UVA rather than as a tool of modern-day white supremacy. We primarily tried to do this through heavy editorialization and structuring the site in a way that leads users to engage with the PCUAS’s thematic introductions prior to engaging with the items.
-
-

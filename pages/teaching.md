@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching
+nav_order: 3
 ---
 
 <a href = "https://www.randolphcollege.edu/news/2024/05/american-culture-program-explores-labor-leisure-and-music-in-the-u-s/">

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Working on a Workshop (aka outlining a possible workshop about DH and Sound)
-tags: [digital history, teaching]
+tags: [digital history, teaching, sound]
 ---
 
 Crossposted to the [Scholars’ Lab blog](https://scholarslab.lib.virginia.edu/blog/intro-dh-and-sound-workshop/)

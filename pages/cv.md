@@ -2,6 +2,7 @@
 layout: page
 title: Curriculum Vitae
 permalink: /cv
+nav_order: 4
 ---
 
 Last updated 07/04/2025
@@ -88,7 +89,7 @@ Randolph College, Ainsworth Visiting Assistant Professor of American Culture (20
 
 Lecturer, “Methodist History and the Struggle for Racial Justice,” Wesley Foundation at the College of William and Mary, Williamsburg, Virginia, February 16, 2025.
 
-Panelist, "[Archival Research with Past PHS Fellows](https://www.history.pcusa.org/blog/2022/11/past-phs-live-archival-research-past-phs-fellows)," Presybterian Historical Society, webinar, November 14, 2022. 
+Panelist, "[Archival Research with Past PHS Fellows](https://www.history.pcusa.org/blog/2022/11/past-phs-live-archival-research-past-phs-fellows)," Presybterian Historical Society, webinar, November 14, 2022.
 
 Lecturer, “Listening to the Archive: Sound, Metadata, and Digital Humanities,” Washington & Lee University, Lexington, VA, March 19, 2020. _Unable to deliver, talk cancelled due to COVID-19 outbreak._
 
@@ -223,14 +224,14 @@ History Major Advising (2025-Present)
 Advisor for Undergraduate Senior Capstones (2022-Present)
 
 #### Best Senior Paper Award, Randolph College
-Madisyn Tyree, “A War on Women’s Bodies: The Lynchburg Colony for the Epileptic and Feebleminded” (2022) 
+Madisyn Tyree, “A War on Women’s Bodies: The Lynchburg Colony for the Epileptic and Feebleminded” (2022)
 
 Tristan Gregory: “We Might Accept Him: John Brown, His Raiders, and African American Memory” (2025)
 
 
 ## PUBLIC AND DIGITAL HUMANITIES
 
-Host, New Books in History, [New Books Network Podcast](https://newbooksnetwork.com/hosts/profile/9455e2c0-9744-4a4d-93a5-e474a00e7b2e), 2023. 
+Host, New Books in History, [New Books Network Podcast](https://newbooksnetwork.com/hosts/profile/9455e2c0-9744-4a4d-93a5-e474a00e7b2e), 2023.
 
 PhD Plus Fellow, [Jefferson School African American Heritage Center](https://jeffschoolheritagecenter.org/), Charlottesville, Virginia, 2020-2022.
 
@@ -274,7 +275,7 @@ Colloquium Speaker, Davenport College Mellon Forum for Senior Essays and Project
 ### Randolph College, Lynchburg, VA
 
 #### Hosted Events
-Dr. Lindsay Parks Pieper for college-wide lecture, “Sport, Sex, and Surveillance: Gender Policing in Women's Sports,” April 24, 2025. 
+Dr. Lindsay Parks Pieper for college-wide lecture, “Sport, Sex, and Surveillance: Gender Policing in Women's Sports,” April 24, 2025.
 
 Dr. Eric Martin for public lecture, "Signs of Faith Against Fascism," Randolph College, Jan. 25, 2024.
 
@@ -316,7 +317,7 @@ History Day workshop facilitator for “Making History: The Civil Rights. Moveme
 
 Co-created "History Day." Created and facilitated workshop, "Archival Silences in the History of American Slavery." Randolph College, March 20, 2024.
 
-Interviewer, Let Wisdom Rise Scholarships, Randolph College, 2024, 2025. 
+Interviewer, Let Wisdom Rise Scholarships, Randolph College, 2024, 2025.
 
 #### Digital Service
 Administrator, #RandolphVotes Blog, 2024 – Present.
@@ -358,7 +359,7 @@ Consultant, Local Elections Committee of United Campus Workers of Virginia, Fall
 
 Interviewee for National History Day Project, "Christopher Columbus," Jefferson Forest High School, January 13, 2023.
 
-Interviewee for National History Day Project, Jefferson Forest High School, Spring 2023. Topics: Jazz Age (2x), Greensboro Sit-In. 
+Interviewee for National History Day Project, Jefferson Forest High School, Spring 2023. Topics: Jazz Age (2x), Greensboro Sit-In.
 
 Inaugural Chair of Local Elections Committee, Local 2265 of Communications Workers of America, 2022.
 

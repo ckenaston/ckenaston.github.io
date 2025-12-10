@@ -14,20 +14,23 @@
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
+        `layout: page` in the front matter, sorted by `nav_order`.
       {% endcomment %}
 
-      {% assign pages_list = site.pages %}
+      {% assign pages_list = site.pages | sort: "nav_order" %}
+
       {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
+        {% if node.title and node.layout == "page" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">
+            {{ node.title }}
+          </a>
         {% endif %}
       {% endfor %}
 
     </nav>
 
-    <p>Unless noted otherwise, work by Connor Kenaston is <a href="http://creativecommons.org/licenses/by/3.0/deed.en_US">CC-BY</a>.</p>
+    <p>Unless noted otherwise, work by Connor Kenaston is
+      <a href="http://creativecommons.org/licenses/by/3.0/deed.en_US">CC-BY</a>.
+    </p>
   </div>
 </div>
