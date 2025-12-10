@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Preparing to Teach Queer American History
-tags: [teaching, queer, travel]
+tags: [teaching, queer, travel, awards]
 ---
 
 This past year, I received support from the Ruth Borker Fund for Women's Studies to develop a new course on Queer History at Randolph College. Named in honor of a former Randolph professor, the Borker Fund supports faculty efforts to integrate "gender-related perspectives into the curriculum."

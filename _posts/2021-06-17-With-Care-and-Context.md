@@ -19,3 +19,6 @@ I close my article with a few specific takeaways that I want to include here:
 Check out the rest of [the article](https://hybridpedagogy.org/with-care-and-context/) and let me know what you think!
 
 I want to say a big thank you to all the people at _Hybrid Pedagogy_ who made the article better, especially Managing Editor Bethany Thomas and reviewers Brandon Morgan and Daniel Lynds. Thanks for making my first time with a “double-open peer review” process a great one! I also want to say thanks to my wonderful friends and colleagues here at UVA who gave me helpful feedback early on in the process: Gillet Rosenblith, Monica Blair, Allison Kelley, and Grace Hale. And finally, a special shoutout for the Scholars’ Lab and especially Brandon Walsh for pointing me toward _Hybrid Pedagogy_ and digital pedagogy in general!
+
+<a href = "https://hybridpedagogy.org/with-care-and-context/">
+<img class="headshot" src="/Images/naacp.jpg" alt="Flag, announcing lynching, flown from the window of the NAACP headquarters on 69 Fifth Ave., New York City, https://www.loc.gov/pictures/item/95517117/"> </a>

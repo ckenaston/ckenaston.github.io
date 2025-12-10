@@ -21,3 +21,6 @@ You can read more about the specific roles I played on this website's [Projects 
 
 Finally, I want to note how cool it felt to have _Land and Legacy_ reviewed alongside other great digital projects like “[Mapping Marronage](https://reviewsindh.pubpub.org/pub/mapping-marronage/release/3?readingCollection=d112edcc),” “[GeoNewsMiner](https://reviewsindh.pubpub.org/pub/geonewsminer/release/2?readingCollection=d112edcc),”
 and “[Visualizing Objects, Spaces, and Places](https://reviewsindh.pubpub.org/pub/visualizing-objects-places-and-spaces/release/2?readingCollection=d112edcc).” If you’re not following _Reviews in Digital Humanities_, you should be!
+
+<a href = "https://landandlegacy.scholarslab.org/">
+<img class="headshot" src="/Images/naacp.jpg" alt="Screenshot of Land and Legacy homepage. Aerial photograph of University of Virginia"> </a>
