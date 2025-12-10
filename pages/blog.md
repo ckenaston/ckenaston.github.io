@@ -5,7 +5,7 @@ permalink: /blog
 nav_order: 5
 ---
 
-##Browse by Tag
+## Browse by Tag
 
 <ul>
   {% assign tags_list = site.tags | sort %}
