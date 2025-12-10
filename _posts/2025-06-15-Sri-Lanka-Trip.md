@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Quillian International Scholar Study Abroad Seminar in Sri Lanka
-tags: [travel, awards, Sri Lanka]
+tags: [travel, awards, scholarship, service, sri lanka]
 
 ---
 
-As I mentioned in my last post, this summer I had the tremendous opportunity to travel to Sri Lanka as part of the Quillian International Scholar Study Abroad Seminar. We spent nearly two weeks there, and it was an unforgettable journey. 
+As I mentioned in my last post, this summer I had the tremendous opportunity to travel to Sri Lanka as part of the Quillian International Scholar Study Abroad Seminar. We spent nearly two weeks there, and it was an unforgettable journey.
 
 Some highlights for me included:
 

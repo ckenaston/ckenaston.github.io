@@ -2,9 +2,11 @@
 layout: default
 ---
 
-<h1>Posts tagged “{{ page.tag }}”</h1>
+<h1>Posts about “{{ page.tag }}”</h1>
 
 {% assign tagged_posts = site.tags[page.tag] %}
+
+<p><a href="/tag/">Browse all posts</a></p>
 
 <div class="posts">
   {% for post in tagged_posts %}
@@ -21,5 +23,3 @@ layout: default
     </div>
   {% endfor %}
 </div>
-
-<p><a href="/tag/">Browse all tags</a></p>
