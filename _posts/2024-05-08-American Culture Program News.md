@@ -1,7 +1,7 @@
 ---
 layout: post
 title: News about the American Culture Program
-tags: [teaching, travel, American Culture Program]
+tags: [teaching, travel, american culture program]
 
 ---
 

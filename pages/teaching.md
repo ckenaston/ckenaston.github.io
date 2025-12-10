@@ -19,10 +19,20 @@ In my classroom, both _what_ we are learning and _how_ we are learning matters. 
 
 In spring 2024, Randolph published an article about my time leading the [American Culture Program](https://www.randolphcollege.edu/news/2024/05/american-culture-program-explores-labor-leisure-and-music-in-the-u-s/).
 
-## Advising
+## Teaching Awards
 
-I have advised several Randolph first-year students and History majors. I have also advised many undergraduate senior capstones in history, covering a range of topics. As an advisor, I focus on providing a challenging yet supportive environment where students learn how to give and receive constructive feedback. In 2023, one of my advisees won Randolph College's "Best Senior Paper Award."
+In spring 2025, I was awarded the Ruth Borker Fund for Women's Studies to develop a new course on Queer American History at Randolph College. Check out this post about [what I did with the award](tag.2025-07-18-Borker-Fund.md) and [the course](tag.2025-09-29-Rosenthal-Lecture.md).
 
+##Capstone Advising
+
+When working with senior history majors, I emphasize feedback, mentorship, scaffolded assignments, and encouraging students to take ownership of the process. This approach has yielded strong results. For instance, capstone advisees of mine won Randolph’s "Best Senior Paper Award" in two of my first three years at the college. One former capstone advisee, now teaching high school history, recently shared that she finds herself “implementing bits of Dr. Kenaston into my classroom.”
+
+## Major and General Advising
+
+I advise Randolph first-year students and History majors.
+
+## Blog Posts About Teaching
+Check out my teaching-related blog posts [here](tag/teaching)
 
 ## Sample Syllabi
 
@@ -54,13 +64,15 @@ History of Capitalism
 
 American Empire
 
-Revolutions
+Age of Revolutions
 
 Black Freedom Movements
 
 Global History of Sport
 
-Queer History
+Queer American History
+
+Randolph College and the Making of the Modern World
 
 Disability History
 
@@ -102,7 +114,7 @@ US Social and Cultural History
 
 Intro to Digital History
 
-History of the Long Civil Rights Movement 
+History of the Long Civil Rights Movement
 
 Religion and Mass Media
 
