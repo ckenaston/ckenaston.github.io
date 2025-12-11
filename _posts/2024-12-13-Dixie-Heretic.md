@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Review of _Dixie Heretic_ by Tennant McWilliams
-tags: [scholarship, reviews, religious history]
+tags: [scholarship, reviews, civil rights, religious history]
 ---
 
 

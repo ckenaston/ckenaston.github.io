@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Posts tagged “job”"
-tag: job
-permalink: /tag/job/
+title: "Posts tagged “jobs”"
+tag: jobs
+permalink: /tag/jobs/
 ---

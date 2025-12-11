@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Researching Sri Lankan and US History
-tags: [scholarship, awards, sri lanka, conferences]
+tags: [scholarship, awards, sri lanka, conferences, religious history]
 
 ---
 

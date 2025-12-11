@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lecture by Dr. Samantha Rosenthal
-tags: [teaching, queer, events, service]
+tags: [teaching, queer, gender, events, service]
 ---
 
 This fall I taught Queer American History. Every student in the class _wanted_ to be there, _wanted_ to do the readings, _wanted_ to talk about what they were learning -- it created a pretty magical learning environment!

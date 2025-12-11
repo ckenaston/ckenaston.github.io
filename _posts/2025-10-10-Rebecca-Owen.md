@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Talking Sit-Ins With Life More Abundant
-tags: [civil rights, teaching, service, scholarship]
+tags: [civil rights, teaching, service, scholarship, religious history]
 
 ---
 

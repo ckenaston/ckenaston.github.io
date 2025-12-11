@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Giving Tuesday with the Presbyterian Historical Society
-tags: [invited talks, community, service, religious history]
+tags: [invited talks, community, service, religion, religious history]
 
 ---
 

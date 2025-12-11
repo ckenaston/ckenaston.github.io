@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Step by Step
-tags: [scholarship, publications, religious history]
+tags: [scholarship, publications, civil rights, religious history]
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: With Care and Context
-tags: [teaching, publications]
+tags: [teaching, publications, scholarship]
 ---
 
 I use images all the time in class. But what about images that could cause harm? Check out my new _Hybrid Pedagogy_ article, “[With Care and Context](https://hybridpedagogy.org/with-care-and-context/)” where I reflect on viewing lynching photographs as an undergraduate and how my thinking about the merits of teaching with such images has evolved over time.
