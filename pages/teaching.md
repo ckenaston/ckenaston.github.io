@@ -26,7 +26,7 @@ In spring 2025, I was awarded the Ruth Borker Fund for Women's Studies to develo
 
 ## Capstone Advising
 
-When working with senior history majors, I emphasize feedback, mentorship, scaffolded assignments, and encouraging students to take ownership of the process. This approach has yielded strong results. For instance, capstone advisees of mine won Randolph’s "Best Senior Paper Award" in two of my first three years at the college. One former capstone advisee, now teaching high school history, recently shared that she finds herself “implementing bits of Dr. Kenaston into my classroom.”
+When working with senior history majors, I emphasize feedback, mentorship, scaffolded assignments, and encouraging students to take ownership of the process. This approach has yielded strong results; capstone advisees of mine won Randolph’s "Best Senior Paper Award" in two of my first three years at the college. One former capstone advisee, now teaching high school history, recently shared that she finds herself “implementing bits of Dr. Kenaston into my classroom.”
 
 ## Major and General Advising
 

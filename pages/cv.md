@@ -32,6 +32,8 @@ Randolph College, Ainsworth Visiting Assistant Professor of American Culture (20
 
 ### Peer-Reviewed Journal Articles
 
+“[Coloring Sacred Sounds: Broadcasting Racial and Religious Outsiders in Radio’s Network Era](https://doi.org/10.1017/rac.2026.10069),” _Religion and American Culture_ 34, no. 3 (April 2, 2026): 312-348.
+
 “[Step by Step: American Interracialism and the Origins of Talk-First Activism](https://doi.org/10.1017/mah.2022.2),” _Modern American History_ 5, no. 1 (March 2022): 1-25.
 
 “[With Care and Context](https://hybridpedagogy.org/with-care-and-context/),” _Hybrid Pedagogy_, June 17, 2021.
@@ -39,9 +41,6 @@ Randolph College, Ainsworth Visiting Assistant Professor of American Culture (20
 “[Methodists and Lynching: Racial Violence and the Methodist Episcopal Church, South, 1880-1930](https://methodistreview.org/index.php/mr/article/view/131),” _Methodist Review: A Journal of Wesleyan and Methodist Studies_ 7 (2015): 21-43.
 
 “[From Rib to Robe: Women’s Ordination in The United Methodist Church](http://hdl.handle.net/10516/9746),” _Methodist History_ 53, no. 3 (April 2015): 162-172.
-
-### Articles Accepted for Publication
-“Coloring Sacred Sounds: Broadcasting Racial and Religious Outsiders in Radio’s Network Era,” _Religion and American Culture_ (accepted pending revisions).
 
 ### Peer-Reviewed Digital Projects
 
