@@ -64,9 +64,33 @@
           }
 
           .post-tags .tag:hover {
-              text-decoration: underline;
-          }
-}
+                  text-decoration: underline;
+              }
+
+      /* Epigraph */
+      .epigraph {
+          font-family: 'Piazzolla', serif;
+          font-style: italic;
+          color: #888;
+          border-left: none;
+          text-align: left;
+          padding-left: 1rem;
+          max-width: 32rem;
+          margin: 0 0 2rem 0;
+          font-size: 1.05rem;
+          line-height: 1.6;
+      }
+
+      .epigraph .attribution {
+          display: block;
+          margin-top: 0.4rem;
+          font-style: normal;
+          font-size: 0.9rem;
+          color: #843b62;
+      }
+
+      }  /* end of @media block */
+
 
 @media (max-width: 26em) {
     .thumbnail {
